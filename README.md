@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Christian Oellers
 
-<!--
-**ChristianOellers/ChristianOellers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as Full Stack Developer for my own company Codeconut founded 2019 in Cyprus ☀️
 
-Here are some ideas to get you started:
+Codeconut builds modern web applications with Angular, React and WordPress for startups and small scale companies.
+Alongside I'm available for freelancing and remote engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+My business: [Codeconut Ltd.](https://codeconut.io)
+
+You'll also find me here
+- [Blog](https://theremotecoder.com)
+- [LinkedIn](https://www.linkedin.com/in/theremotecoder)
+- [Xing](https://www.xing.com/profile/Christian_Oellers2)
