@@ -9,6 +9,5 @@ Alongside I'm available for freelancing and remote engagement.
 My business: [Codeconut Ltd.](https://codeconut.io)
 
 You'll also find me here
-- [Blog](https://theremotecoder.com)
 - [LinkedIn](https://www.linkedin.com/in/theremotecoder)
 - [Xing](https://www.xing.com/profile/Christian_Oellers2)
