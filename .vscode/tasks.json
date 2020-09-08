@@ -1,0 +1,55 @@
+{
+  "version": "2.0.0",
+
+  /**
+   * TOC
+   * - Apache server
+   * - Git
+   * - NPM
+   */
+  "tasks": [
+
+    // ------------------------------------------------------------------------------------------------------------------- Apache server
+
+    {
+      "label": "Apache - Monitor error log",
+      "type": "shell",
+      "command": "tail -f /var/log/apache2/dev-2-error_log",
+      "group": "build"
+    },
+
+    // ----------------------------------------------------------------------------------------------------------------------------- Git
+
+    {
+      "label": "Git - Install submodules",
+      "type": "shell",
+      "command": "git submodule update --init --recursive",
+      "group": "build"
+    },
+    {
+      "label": "Git - Update submodules",
+      "type": "shell",
+      "command": "git submodule update --recursive --remote",
+      "group": "build"
+    },
+
+    // ----------------------------------------------------------------------------------------------------------------------------- NPM
+
+    {
+      "label": "NPM - Delete modules",
+      "type": "npm",
+      "script": "rm -rf node_modules",
+      "path": ".",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "NPM - Update modules",
+      "type": "npm",
+      "script": "npm update",
+      "path": ".",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+    // ------------------------------------------------------------------------------------------------------------------------------ VSCode
+
+    "css.validate": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "line",
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "Fira Code, Dank Mono, Operator Mono, Fira Code, Inconsolata, Menlo",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.insertSpaces": false,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 25,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2,
+    "editor.useTabStops": false,
+    "editor.renderIndentGuides": false,
+    "editor.wordWrap": "off",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "json.format.enable": true,
+    "less.validate": false,
+    "scss.validate": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // -------------------------------------------------------------------------------------------------------------------------- Extensions
+
+    "stylelint.enable": true,
+
+    // --------------------------------------------------------------------------------------------------------------------------- Filetypes
+
+    "[scss]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.stylelint": true
+        }
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.acceptSuggestionOnEnter": "off",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.stylelint": false
+        }
+    },
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    },
+    "[typescriptreact]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    },
+    "[xml]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    }
+}

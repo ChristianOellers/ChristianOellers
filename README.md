@@ -1,4 +1,6 @@
-# Hi, I'm Christian Oellers
+![Header](/header/header.png)
+
+# Hi, I'm Christian
 
 I work as Full Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
 
@@ -26,4 +28,3 @@ Alongside I'm available for freelancing and remote engagement.
 
 - [LinkedIn](https://www.linkedin.com/in/theremotecoder)
 - [Xing](https://www.xing.com/profile/Christian_Oellers2)
-

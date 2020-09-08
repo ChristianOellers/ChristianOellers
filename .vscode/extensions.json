@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    // Required
+    "alefragnani.bookmarks",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "pranaygp.vscode-css-peek",
+    "stylelint.vscode-stylelint",
+    "wix.vscode-import-cost",
+
+    // Recommended
+    "eamodio.gitlens",
+    "huizhou.githd",
+    "mhutchie.git-graph",
+    "tomsaunders.vscode-workspace-explorer"
+  ]
+}
