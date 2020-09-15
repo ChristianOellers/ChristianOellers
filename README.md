@@ -2,7 +2,7 @@
 
 # Hi, I'm Christian
 
-I work as Full Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
+I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
 
 Codeconut builds modern web applications with Angular, React and WordPress for startups and small scale companies.
 Alongside I'm available for freelancing and remote engagement.
