@@ -19,6 +19,12 @@ Alongside I'm available for freelancing and remote engagement.
 | [TheRemoteCoder](https://github.com/TheRemoteCoder) | Technology archive, Not maintained |
 | [Gists](https://gist.github.com/ChristianOellers) | Code snippets |
 
+### Playgrounds
+
+| Link | Content |
+|------|---------|
+| [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
+
 
 ### Publications
 
