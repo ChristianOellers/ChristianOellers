@@ -51,5 +51,7 @@ Or drop me a line here:
 
 ---
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers)
+</div>
