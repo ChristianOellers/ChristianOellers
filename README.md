@@ -10,25 +10,20 @@ Alongside I'm available for freelancing and remote engagement.
 
 ## Projects
 
-### GitHub
 
-| Link | Content |
-|------|---------|
+| GitHub profile | Content |
+|----------------|---------|
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development |
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects and OpenSource |
 | [TheRemoteCoder](https://github.com/TheRemoteCoder) | Technology archive, Not maintained |
 | [Gists](https://gist.github.com/ChristianOellers) | Code snippets |
 
-### Playgrounds
+## Profiles
 
 | Link | Content |
 |------|---------|
+| [Blog](https://www.theremotecoder.com) | Tech talk and nerdery |
 | [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
-
-
-### Publications
-
-- [Blog](https://www.theremotecoder.com/)
 
 
 ## Get in touch
