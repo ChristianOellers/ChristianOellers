@@ -41,3 +41,15 @@ In my spare time, I challenge myself with building 2D game tools and magically m
 
 - [LinkedIn](https://www.linkedin.com/in/theremotecoder)
 - [Xing](https://www.xing.com/profile/Christian_Oellers2)
+
+Or drop me a line here:
+
+[![Gmail](https://img.shields.io/badge/Gmail-info@codeconut.io-blue.svg)](mailto:info@codeconut.io)
+
+
+<br><br>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&layout=compact)
