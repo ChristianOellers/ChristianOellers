@@ -52,4 +52,4 @@ Or drop me a line here:
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers)
