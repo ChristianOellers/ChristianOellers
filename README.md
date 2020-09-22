@@ -4,14 +4,14 @@
 
 I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
 
-Codeconut builds modern web applications with Angular, React and WordPress for startups and small scale companies. Alongside I'm available for freelancing and remote engagement.
+✨ Codeconut builds modern web applications with Angular, React and WordPress for startups and small scale companies. Alongside I'm available for freelancing and remote engagement.
 
-In my spare time, I challenge myself with building 2D game tools and magically misuse modern technologies in probably unintended ways.
+✨ In my spare time, I challenge myself with building 2D game tools and magically misuse modern technologies in probably unintended ways.
 
-
-<br><br>
 
 ---
+
+<br><br>
 
 
 ## Projects
@@ -32,9 +32,9 @@ In my spare time, I challenge myself with building 2D game tools and magically m
 | [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
 
 
-<br><br>
-
 ---
+
+<br><br>
 
 
 ## Get in touch
@@ -47,9 +47,10 @@ Or drop me a line here:
 [![Gmail](https://img.shields.io/badge/Gmail-info@codeconut.io-blue.svg)](mailto:info@codeconut.io)
 
 
+---
+
 <br><br>
 
----
 
 <div align="center">
 
