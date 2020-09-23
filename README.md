@@ -18,8 +18,8 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | GitHub profile | Content |
 |----------------|---------|
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development |
-| [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects and OpenSource |
-| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Technology archive, Not maintained |
+| [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
+| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Technology archive – Not maintained |
 | [Gists](https://gist.github.com/ChristianOellers) | Code snippets |
 
 ## Profiles
