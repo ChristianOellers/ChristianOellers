@@ -34,22 +34,22 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ## Tech I work with
 
-![Angular](https://img.shields.io/badge/Angular-blue?logo=angular&labelColor=blue&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&labelColor=blue&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS%203-blue?logo=css3&labelColor=blue&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&labelColor=blue&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESlint-blue?logo=eslint&labelColor=blue&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-blue?logo=graphql&labelColor=blue&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-blue?logo=gulp&labelColor=blue&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML%205-blue?logo=html5&labelColor=blue&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&labelColor=blue&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&labelColor=blue&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-blue?logo=node.js&labelColor=blue&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?logo=php&labelColor=blue&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&labelColor=blue&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-blue?logo=sass&labelColor=blue&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&labelColor=blue&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&labelColor=blue&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-635242?logo=angular&labelColor=635242&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-635242?logo=bootstrap&labelColor=635242&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS%203-635242?logo=css3&labelColor=635242&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-635242?logo=docker&labelColor=635242&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESlint-635242?logo=eslint&labelColor=635242&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-635242?logo=graphql&labelColor=635242&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-635242?logo=gulp&labelColor=635242&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML%205-635242?logo=html5&labelColor=635242&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-635242?logo=javascript&labelColor=635242&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-635242?logo=mysql&labelColor=635242&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-635242?logo=node.js&labelColor=635242&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-635242?logo=php&labelColor=635242&logoColor=white)
+![React](https://img.shields.io/badge/React-635242?logo=react&labelColor=635242&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-635242?logo=sass&labelColor=635242&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-635242?logo=typescript&labelColor=635242&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
 
 
 <br><br>
@@ -57,9 +57,9 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ## Get in touch
 
-[![Xing](https://img.shields.io/badge/Xing-brightgreen?logo=xing&labelColor=brightgreen&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?logo=linkedin&labelColor=brightgreen&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
-[![Email](https://img.shields.io/badge/Gmail-brightgreen?logo=gmail&labelColor=brightgreen&logoColor=white)](mailto:info@codeconut.io)
+[![Xing](https://img.shields.io/badge/Xing-343a40?logo=xing&labelColor=343a40&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-343a40?logo=linkedin&labelColor=343a40&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
+[![Email](https://img.shields.io/badge/Gmail-343a40?logo=gmail&labelColor=343a40&logoColor=white)](mailto:info@codeconut.io)
 
 <br><br>
 
