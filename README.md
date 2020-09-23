@@ -57,9 +57,9 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ## Get in touch
 
-[![Xing](https://img.shields.io/badge/Xing-blue?logo=xing&labelColor=blue&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
-[![Email](https://img.shields.io/badge/Gmail-blue?logo=gmail&labelColor=blue&logoColor=white)](mailto:info@codeconut.io)
+[![Xing](https://img.shields.io/badge/Xing-brightgreen?logo=xing&labelColor=brightgreen&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?logo=linkedin&labelColor=brightgreen&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
+[![Email](https://img.shields.io/badge/Gmail-brightgreen?logo=gmail&labelColor=brightgreen&logoColor=white)](mailto:info@codeconut.io)
 
 <br><br>
 
