@@ -1,42 +1,29 @@
-# Include your project-specific ignores in this file
-# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
-# Useful .gitignore templates: https://github.com/github/gitignore
+# --------------------------------------------------------------------------------------------------------------------------------- Git only
 
 # Compiled output
-/bazel-out
-/build
 /dist
 /documentation
 /out-tsc
-/storybook-static
-/styleguide
 /tmp
 
 # Dependencies
 /node_modules
-/.pnp
-.pnp.js
-
-# Profiling files
-chrome-profiler-events*.json
-speed-measure-plugin*.json
 
 # IDEs + Editors
-/.idea
-.project
-.classpath
-.c9/
 *.launch
-.settings/
 *.sublime-workspace
+.c9/
+.classpath
+.project
+.settings/
+/.idea
 
 # IDE - VSCode
 .vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
 !.vscode/settings.json
 !.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
 
 # Misc
 /.sass-cache
@@ -46,9 +33,10 @@ speed-measure-plugin*.json
 /typings
 npm-debug.log
 testem.log
-yarn-debug.log*
-yarn-error.log*
+yarn-error.log
 
 # System files
+*/*.lnk
+*desktop.ini
 .DS_Store
 Thumbs.db
