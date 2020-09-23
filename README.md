@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ChristianOellers/ChristianOellers/master/header/header.png)
+![Header](https://raw.githubusercontent.com/ChristianOellers/ChristianOellers/main/header/header.png)
 
 # Hi, I'm Christian
 
