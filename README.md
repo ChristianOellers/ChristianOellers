@@ -29,18 +29,37 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | [Blog](https://www.theremotecoder.com) | Tech talk and nerdery |
 | [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
 
+<br><br>
+
+
+## Tech I work with
+
+![Angular](https://img.shields.io/badge/Angular-blue?logo=angular&labelColor=blue&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&labelColor=blue&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS%203-blue?logo=css3&labelColor=blue&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&labelColor=blue&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESlint-blue?logo=eslint&labelColor=blue&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-blue?logo=graphql&labelColor=blue&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-blue?logo=gulp&labelColor=blue&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML%205-blue?logo=html5&labelColor=blue&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&labelColor=blue&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&labelColor=blue&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-blue?logo=node.js&labelColor=blue&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?logo=php&labelColor=blue&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&labelColor=blue&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-blue?logo=sass&labelColor=blue&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&labelColor=blue&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&labelColor=blue&logoColor=white)
+
 
 <br><br>
 
 
 ## Get in touch
 
-| Link |
-|------|
-| [![Xing](https://img.shields.io/badge/Xing-blue?logo=xing&labelColor=blue&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/theremotecoder) |
-| [![Email](https://img.shields.io/badge/Gmail-blue?logo=gmail&labelColor=blue&logoColor=white)](mailto:info@codeconut.io) |
-
+[![Xing](https://img.shields.io/badge/Xing-blue?logo=xing&labelColor=blue&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
+[![Email](https://img.shields.io/badge/Gmail-blue?logo=gmail&labelColor=blue&logoColor=white)](mailto:info@codeconut.io)
 
 <br><br>
 
