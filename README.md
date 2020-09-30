@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ChristianOellers/ChristianOellers/main/header/header.png)
+![Christian Oellers](https://raw.githubusercontent.com/ChristianOellers/ChristianOellers/main/header/header.png)
 
 # Hi, I'm Christian
 
@@ -60,7 +60,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ## Get in touch
 
 [![Xing](https://img.shields.io/badge/Xing-343a40?logo=xing&labelColor=343a40&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-343a40?logo=linkedin&labelColor=343a40&logoColor=white)](https://www.linkedin.com/in/theremotecoder) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-343a40?logo=linkedin&labelColor=343a40&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
 [![Email](https://img.shields.io/badge/Gmail-343a40?logo=gmail&labelColor=343a40&logoColor=white)](mailto:info@codeconut.io)
 
 <br><br>
