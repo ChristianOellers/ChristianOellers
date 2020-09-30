@@ -1,4 +1,4 @@
-![Christian Oellers](https://raw.githubusercontent.com/ChristianOellers/ChristianOellers/main/header/header.png)
+![Christian Oellers](teaser.png)
 
 # Hi, I'm Christian
 
