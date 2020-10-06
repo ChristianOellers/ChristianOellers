@@ -69,6 +69,6 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true&show_icons=true&theme=default)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&hide=&layout=compact&langs_count=8)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&hide=&layout=compact&langs_count=8&v=1)
 
 </div>
