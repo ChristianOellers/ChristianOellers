@@ -63,6 +63,12 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-343a40?logo=linkedin&labelColor=343a40&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
 [![Email](https://img.shields.io/badge/Gmail-343a40?logo=gmail&labelColor=343a40&logoColor=white)](mailto:info@codeconut.io)
 
+<br>
+
+Feel free to use my PGP-key for encrypted emails:
+
+- [Download key file](http://static.codeconut.io/pgp-keys/info-codeconut.asc)
+
 <br><br>
 
 
