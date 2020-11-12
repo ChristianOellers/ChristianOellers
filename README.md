@@ -54,7 +54,6 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![Docker](https://img.shields.io/badge/Docker-635242?logo=docker&labelColor=635242&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-635242?logo=heroku&labelColor=635242&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-635242?logo=netlify&labelColor=635242&logoColor=white)
-![LogDNA](https://img.shields.io/badge/logdna-635242?logo=logdna&labelColor=635242&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
 
 
