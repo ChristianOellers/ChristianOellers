@@ -57,6 +57,14 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![Vercel](https://img.shields.io/badge/vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
 
+![CircleCI](https://img.shields.io/badge/circleci-635242?logo=circleci&labelColor=635242&logoColor=white)
+![Codefresh](https://img.shields.io/badge/codefresh-635242?logo=codefresh&labelColor=635242&logoColor=white)
+![Travis CI](https://img.shields.io/badge/travisci-635242?logo=travisci&labelColor=635242&logoColor=white)
+![Codacy](https://img.shields.io/badge/codacy-635242?logo=codacy&labelColor=635242&logoColor=white)
+![Codecov](https://img.shields.io/badge/codecov-635242?logo=codecov&labelColor=635242&logoColor=white)
+![Snyk](https://img.shields.io/badge/snyk-635242?logo=snyk&labelColor=635242&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/sonarcloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
+
 
 <br><br>
 
