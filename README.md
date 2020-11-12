@@ -52,18 +52,19 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![ESLint](https://img.shields.io/badge/ESlint-635242?logo=eslint&labelColor=635242&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-635242?logo=docker&labelColor=635242&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-635242?logo=heroku&labelColor=635242&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-635242?logo=netlify&labelColor=635242&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-635242?logo=heroku&labelColor=635242&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-635242?logo=netlify&labelColor=635242&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
+![LogDNA](https://img.shields.io/badge/LogDNA-635242?logo=logdna&labelColor=635242&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
 
-![CircleCI](https://img.shields.io/badge/circleci-635242?logo=circleci&labelColor=635242&logoColor=white)
-![Codefresh](https://img.shields.io/badge/codefresh-635242?logo=codefresh&labelColor=635242&logoColor=white)
-![Travis CI](https://img.shields.io/badge/travisci-635242?logo=travisci&labelColor=635242&logoColor=white)
-![Codacy](https://img.shields.io/badge/codacy-635242?logo=codacy&labelColor=635242&logoColor=white)
-![Codecov](https://img.shields.io/badge/codecov-635242?logo=codecov&labelColor=635242&logoColor=white)
-![Snyk](https://img.shields.io/badge/snyk-635242?logo=snyk&labelColor=635242&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/sonarcloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-635242?logo=circleci&labelColor=635242&logoColor=white)
+![Codefresh](https://img.shields.io/badge/Codefresh-635242?logo=codefresh&labelColor=635242&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis%20CI-635242?logo=travisci&labelColor=635242&logoColor=white)
+![Codacy](https://img.shields.io/badge/Codacy-635242?logo=codacy&labelColor=635242&logoColor=white)
+![Codecov](https://img.shields.io/badge/Codecov-635242?logo=codecov&labelColor=635242&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-635242?logo=snyk&labelColor=635242&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
 
 
 <br><br>
