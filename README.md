@@ -19,7 +19,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 |----------------|---------|
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development |
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
-| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Technology archive – Not maintained |
+| [TheRemoteCoder](https://github.com/TheRemoteCoder) | CMS + E-Commerce – Technology archive |
 | [Gists](https://gist.github.com/ChristianOellers) | Code snippets |
 
 ## Profiles
