@@ -57,6 +57,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
 ![LogDNA](https://img.shields.io/badge/LogDNA-635242?logo=logdna&labelColor=635242&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-635242?logo=postman&labelColor=635242&logoColor=white)
 
 ![CircleCI](https://img.shields.io/badge/CircleCI-635242?logo=circleci&labelColor=635242&logoColor=white)
 ![Codefresh](https://img.shields.io/badge/Codefresh-635242?logo=codefresh&labelColor=635242&logoColor=white)
@@ -66,6 +67,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![Snyk](https://img.shields.io/badge/Snyk-635242?logo=snyk&labelColor=635242&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
 
+<!-- simpleicons.org -->
 
 <br><br>
 
