@@ -48,6 +48,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-635242?logo=bootstrap&labelColor=635242&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-635242?logo=node.js&labelColor=635242&logoColor=white)
+![ReactiveX - RxJS](https://img.shields.io/badge/ReactiveX-635242?logo=reactivex&labelColor=635242&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-635242?logo=gulp&labelColor=635242&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESlint-635242?logo=eslint&labelColor=635242&logoColor=white)
 
