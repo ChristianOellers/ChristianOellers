@@ -59,6 +59,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 ![LogDNA](https://img.shields.io/badge/LogDNA-635242?logo=logdna&labelColor=635242&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-635242?logo=sentry&labelColor=635242&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-635242?logo=postman&labelColor=635242&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-635242?logo=jest&labelColor=635242&logoColor=white)
 
 ![CircleCI](https://img.shields.io/badge/CircleCI-635242?logo=circleci&labelColor=635242&logoColor=white)
 ![Codefresh](https://img.shields.io/badge/Codefresh-635242?logo=codefresh&labelColor=635242&logoColor=white)
