@@ -40,7 +40,7 @@ Honest overview of my current self, historical experience and future goals.
 
 ### What I work with
 
-What I'm good at and enjoy working with. Prioritized:
+Where I've realized projects and keep working with. Prioritized:
 
 ![React](https://img.shields.io/badge/React-635242?logo=react&labelColor=635242&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-635242?logo=angular&labelColor=635242&logoColor=white)
@@ -77,7 +77,7 @@ What I'm good at and enjoy working with. Prioritized:
 
 ### What I know about
 
-Where I've realized projects, but don't focus on:
+Side and past projects. Not in my focus:
 
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-635242?logo=backbone.js&labelColor=635242&logoColor=white)
 ![Cisco Meraki Dashboard API](https://img.shields.io/badge/Cisco-635242?logo=cisco&labelColor=635242&logoColor=white)
@@ -122,9 +122,12 @@ No priority, long-shot:
 
 ## Get in touch
 
-Preferably direct:
+### Talk
 
 [![Email](https://img.shields.io/badge/•-Email-343a40.svg?colorA=343a40)](mailto:info@codeconut.io)
+
+### Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-343a40?logo=linkedin&labelColor=343a40&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
 [![Xing](https://img.shields.io/badge/Xing-343a40?logo=xing&labelColor=343a40&logoColor=white)](https://www.xing.com/profile/Christian_Oellers2)
 
