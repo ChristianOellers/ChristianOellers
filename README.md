@@ -81,6 +81,8 @@ Side and past projects. Not in my focus:
 
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-635242?logo=backbone.js&labelColor=635242&logoColor=white)
 ![Cisco Meraki Dashboard API](https://img.shields.io/badge/Cisco-635242?logo=cisco&labelColor=635242&logoColor=white)
+![Contao CMS](https://img.shields.io/static/v1?label=&message=Contao%20CMS&color=635242)
+![Joomla](https://img.shields.io/badge/Joomla-635242?logo=joomla&labelColor=635242&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-635242?logo=jquery&labelColor=635242&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-635242?logo=graphql&labelColor=635242&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-635242?logo=grunt&labelColor=635242&logoColor=white)
@@ -91,6 +93,7 @@ Side and past projects. Not in my focus:
 ![Three.js](https://img.shields.io/badge/Three.js-635242?logo=three.js&labelColor=635242&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-635242?logo=web3.js&labelColor=635242&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-635242?logo=webpack&labelColor=635242&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
 ![Zend Framework](https://img.shields.io/badge/Zend%20Framework-635242?logo=zend%20framework&labelColor=635242&logoColor=white)
 
