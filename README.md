@@ -6,7 +6,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ✨ &nbsp;Codeconut builds modern web applications with React, Angular, Symfony and WordPress for startups to corporate scale businesses. Alongside I'm available for freelancing.
 
-✨ &nbsp;In my spare time, I challenge myself with learning traditional arts, Piano, and the magical misuse of modern technologies in probably unintended ways.
+✨ &nbsp;In my spare time, I challenge myself with learning foreign languages, traditional arts, and the magical misuse of modern technologies in probably unintended ways.
 
 
 <br><br>
