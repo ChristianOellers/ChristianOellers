@@ -91,6 +91,7 @@ Side and past projects. Not in my focus:
 ![Node.js](https://img.shields.io/badge/Node.js-635242?logo=node.js&labelColor=635242&logoColor=white)
 ![Robot (FSM)](https://img.shields.io/static/v1?label=&message=Robot&color=635242)
 ![Three.js](https://img.shields.io/badge/Three.js-635242?logo=three.js&labelColor=635242&logoColor=white)
+![Underscore](https://img.shields.io/badge/Underscore-635242?logo=underscore&labelColor=635242&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-635242?logo=web3.js&labelColor=635242&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-635242?logo=webpack&labelColor=635242&logoColor=white)
@@ -116,6 +117,7 @@ Complementing existing skills:
 No priority, long-shot:
 
 - 3D / Graphics (e.g. WebGL)
+- AI (Text analysis, Data evaluation)
 - Cloud platform management (e.g. AWS, Azure)
 - Frontend / Full-stack (Svelte, Blitz)
 - Hardware (e.g. VR, Drones)
