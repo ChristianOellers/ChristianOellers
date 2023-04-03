@@ -146,8 +146,11 @@ PGP-key for encrypted emails:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true&show_icons=true&theme=default)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&hide=&layout=compact&langs_count=20&v=1)
+<!--
+Disabled as rate limiting would need own deployment. Keep for future uses.
+! [GitHub stats] (https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true&show_icons=true&theme=default)
+! [Most used languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&hide=&layout=compact&langs_count=20&v=1)
+-->
 
 </div>
 
