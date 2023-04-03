@@ -14,7 +14,6 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ## Projects
 
-
 | GitHub profile | Content |
 |----------------|---------|
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development |
@@ -30,13 +29,28 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
 | [Blog](https://www.theremotecoder.com) | Tech talk and nerdery |
 
+
 <br><br>
+
+
+## Contributions
+
+Public project contributions in OpenSource and paid projects.
+
+| Project | Stack | Work done | Links |
+|---------|-------|-----------|-------|
+| Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bugfixes. Feature development (Annotation templates / Questionnaire). | [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) |
+| Paycer protocol | React; JS, CSS, HTML | UI feature development with Web3 APIs. | [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) |
+
+
+<br><br>
+
 
 ## Tech stack
 
-Honest overview of my current self, historical experience and future goals. 
+My current self, historical experience and future desired directions.
 
-> Decisions are driven by sustainability and commercial factors. I prefer to focus on fewer things and become better at these over getting involved in too many technologies _(speaking of prioritizing my time and educational costs, especially to maintain them in the future)_.
+_Decisions are driven by sustainability and commercial factors. I prefer to focus on fewer things and become better at these over getting involved in too many technologies _(speaking of prioritizing my time and educational costs, especially to maintain them in the future)_.
 
 ### What I work with
 
@@ -101,29 +115,17 @@ Side and past projects. Not in my focus:
 ![Adobe Suite](https://img.shields.io/badge/Adobe-635242?logo=adobe&labelColor=635242&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-635242?logo=blender&labelColor=635242&logoColor=white)
 
-### What I want to learn
+### Where I want to go
 
-Complementing existing skills:
+No particular priority, as these might change anytime:
 
-- API systems (e.g. API Platform for Symfony, OpenAPI/Swagger)
-- Data Mining / Scraping / E2E (e.g. Puppeteer)
-- Databases (SQL, NoSQL, Graph - e.g. Neo4j/Cypher)
-- Frontend / Full-stack (Vue + Ecosystem)
-- Mobile Applications (e.g. React Native, Ionic)
-- State Machines (xState, Symfony Workflows)
+- AI / ML / Data science
+- Databases (NoSQL, Cloud)
+- Mobile applications
 
-### What I might want to learn
-
-No priority, long-shot:
-
-- 3D / Graphics (e.g. WebGL)
-- AI (Text analysis, Data evaluation)
-- Cloud platform management (e.g. AWS, Azure)
-- Frontend / Full-stack (Svelte, Blitz)
-- Hardware (e.g. VR, Drones)
-- Mobile Applications (native)
 
 <br><br>
+
 
 ## Get in touch
 
@@ -142,7 +144,9 @@ PGP-key for encrypted emails:
 
 - [Download key](http://static.codeconut.io/pgp-keys/info-codeconut.asc)
 
+
 <br><br>
+
 
 <div align="center">
 
@@ -153,6 +157,7 @@ Disabled as rate limiting would need own deployment. Keep for future uses.
 -->
 
 </div>
+
 
 
 <!-- simpleicons.org -->
