@@ -50,7 +50,7 @@ Public project contributions in OpenSource and paid projects.
 
 My current self, historical experience and future desired directions.
 
-_Decisions are driven by sustainability and commercial factors. I prefer to focus on fewer things and become better at these over getting involved in too many technologies _(speaking of prioritizing my time and educational costs, especially to maintain them in the future)_.
+_Decisions are driven by sustainability and commercial factors. I prefer to focus on fewer things and become better at these over getting involved in too many technologies (speaking of prioritizing my time and educational costs, especially to maintain them in the future)._
 
 ### What I work with
 
