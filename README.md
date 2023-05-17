@@ -56,6 +56,7 @@ _Decisions are driven by sustainability and commercial factors. I prefer to focu
 
 Where I've realized projects and keep working with. Prioritized:
 
+![OpenAi](https://img.shields.io/badge/OpenAI-635242?logo=openai&labelColor=635242&logoColor=white)
 ![React](https://img.shields.io/badge/React-635242?logo=react&labelColor=635242&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-635242?logo=angular&labelColor=635242&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-635242?logo=symfony&labelColor=635242&logoColor=white)
@@ -73,6 +74,7 @@ Where I've realized projects and keep working with. Prioritized:
 ![CSS 3](https://img.shields.io/badge/CSS%203-635242?logo=css3&labelColor=635242&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML%205-635242?logo=html5&labelColor=635242&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-635242?logo=gnu%20bash&labelColor=635242&logoColor=white)
+![python](https://img.shields.io/badge/python-635242?logo=python&labelColor=635242&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-635242?logo=docker&labelColor=635242&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-635242?logo=vagrant&labelColor=635242&logoColor=white)
@@ -117,11 +119,10 @@ Side and past projects. Not in my focus:
 
 ### Where I want to go
 
-No particular priority, as these might change anytime:
-
-- AI / ML / Data science
-- Databases (NoSQL, Cloud)
-- Mobile applications
+- AI / ML / LLMs
+- Databases (NoSQL, Graph, Vector)
+- Mobile/Hybrid applications
+- Data science
 
 
 <br><br>
