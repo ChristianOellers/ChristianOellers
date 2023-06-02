@@ -1,6 +1,6 @@
 ![Christian Oellers](teaser.png)
 
-# Hi, I'm Christian
+# Hi, I'm Christian!
 
 I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
 
@@ -11,24 +11,32 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 <br><br>
 
+## Find me here
 
-## Projects
+### Live Demos
 
-| GitHub profile | Content |
-|----------------|---------|
+| Link | About |
+|------|-------|
+| [CodePen](https://codepen.io/TheRemoteCoder) | Experiments and tech-demos |
+| [Vector-Storm](https://vector-storm.vercel.app) | Abstract 2D evasive shooter - [Code](https://github.com/ChristianOellers/Vector-Storm) |
+
+
+### Projects
+
+| GitHub | About |
+|--------|-------|
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development |
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
 | [TheRemoteCoder](https://github.com/TheRemoteCoder) | CMS + E-Commerce – Technology archive |
 | [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides |
 
-## Profiles
+### Profiles
 
-| Link | Content |
-|------|---------|
+| Website | About |
+|---------|-------|
 | [Stack Overflow](https://stackoverflow.com/users/1045692/theremotecoder) | Developer profile |
-| [CodePen](https://codepen.io/TheRemoteCoder) | Live demos |
-| [Blog](https://www.theremotecoder.com) | Tech talk and nerdery |
-
+| [Blog - Dev](https://www.theremotecoder.com) | IT & Dev nerdery |
+| [Blog - Design](https://www.drawfulmind.com) | Graphic design, UI, Arts |
 
 <br><br>
 
