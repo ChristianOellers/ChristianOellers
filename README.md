@@ -18,7 +18,8 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | Link | About |
 |------|-------|
 | [CodePen](https://codepen.io/TheRemoteCoder) | Experiments and tech-demos |
-| [Vector-Storm](https://vector-storm.vercel.app) | Abstract 2D evasive shooter - [Code](https://github.com/ChristianOellers/Vector-Storm) |
+| [Silent Space](https://silent-space-2-d-game.vercel.app) | Atmospheric space game - [Code](https://github.com/ChristianOellers/Silent-Space--2D-Game) |
+| [Vector-Storm](https://vector-storm.vercel.app) | Abstract arcade shooter - [Code](https://github.com/ChristianOellers/Vector-Storm) |
 
 
 ### Projects
