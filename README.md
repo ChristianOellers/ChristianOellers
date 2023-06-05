@@ -85,6 +85,7 @@ Where I've realized projects and keep working with. Prioritized:
 ![Bash](https://img.shields.io/badge/GNU%20Bash-635242?logo=gnu%20bash&labelColor=635242&logoColor=white)
 ![python](https://img.shields.io/badge/python-635242?logo=python&labelColor=635242&logoColor=white)
 
+![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-635242?logo=docker&labelColor=635242&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-635242?logo=vagrant&labelColor=635242&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-635242?logo=postman&labelColor=635242&logoColor=white)
@@ -102,7 +103,7 @@ Where I've realized projects and keep working with. Prioritized:
 
 ### What I know about
 
-Side and past projects. Not in my focus:
+Side projects, technical explorations, historic experience:
 
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-635242?logo=backbone.js&labelColor=635242&logoColor=white)
 ![Cisco Meraki Dashboard API](https://img.shields.io/badge/Cisco-635242?logo=cisco&labelColor=635242&logoColor=white)
@@ -111,13 +112,15 @@ Side and past projects. Not in my focus:
 ![jQuery](https://img.shields.io/badge/jQuery-635242?logo=jquery&labelColor=635242&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-635242?logo=graphql&labelColor=635242&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-635242?logo=grunt&labelColor=635242&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-635242?logo=jenkins&labelColor=635242&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-635242?logo=magento&labelColor=635242&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-635242?logo=node.js&labelColor=635242&logoColor=white)
 ![Robot (FSM)](https://img.shields.io/static/v1?label=&message=Robot&color=635242)
 ![Three.js](https://img.shields.io/badge/Three.js-635242?logo=three.js&labelColor=635242&logoColor=white)
 ![Underscore](https://img.shields.io/badge/Underscore-635242?logo=underscore&labelColor=635242&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-635242?logo=vercel&labelColor=635242&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-635242?logo=vue.js&labelColor=635242&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-635242?logo=jenkins&labelColor=635242&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-635242?logo=puppeteer&labelColor=635242&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-635242?logo=web3.js&labelColor=635242&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-635242?logo=webpack&labelColor=635242&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
