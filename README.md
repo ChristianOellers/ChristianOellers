@@ -8,21 +8,47 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ✨ &nbsp;In my spare time, I challenge myself with learning foreign languages, traditional arts, and the magical misuse of modern technologies in probably unintended ways.
 
+<br>
 
-<br><br>
+---
 
-## Find me here
+<br>
 
-### Live Demos
-
-| Link | About |
-|------|-------|
-| [CodePen](https://codepen.io/TheRemoteCoder) | Experiments and tech-demos |
-| [Silent Space](https://silent-space.vercel.app) | Atmospheric space game - [Code](https://github.com/ChristianOellers/Silent-Space) |
-| [Vector-Storm](https://vector-storm.vercel.app) | Abstract arcade shooter - [Code](https://github.com/ChristianOellers/Vector-Storm) |
-
+## References
 
 ### Projects
+
+Live demos.
+
+| Category | Link | Stack | About | Code | Notes |
+|----------|-------|-------|------|------|-------|
+| / | [CodePen](https://codepen.io/TheRemoteCoder) | JS, TS, HTML5, CSS3, Canvas | Experiments, tech-demos, layouts in frontend stack | / | / |
+| App | [Video E-Learning](https://project-6-1.codeconut.io/?apiKey=&videoId=1) | JS, HTML5, CSS3, Webpack, Bootstrap | Video annotated learning - University students | / | Ask for `apiKey` to access |
+| App | [Market products store](https://project-1-0.codeconut.io) | React, Recoil, TS, Bootstrap | Marketplace cart and product register | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | / |
+| App | [Codeconut](https://www.codeconut.io) | Angular, TS, Bootstrap | Own website | / | With some easter eggs :) |
+| Game | [Silent Space](https://silent-space.vercel.app) | JS, HTML5, CSS3, Canvas | Atmospheric space game concept | [GitHub](https://github.com/ChristianOellers/Silent-Space) | / |
+| Game | [Vector-Storm](https://vector-storm.vercel.app) | TS, HTML5, CSS3, Canvas | Abstract arcade shooter | [GitHub](https://github.com/ChristianOellers/Vector-Storm) | / |
+
+_Background details and insights into their development available in personal talks._
+
+### Contributions
+
+Public project contributions in OpenSource and paid projects.
+
+| Project | Stack | Challenges solved | Links |
+|---------|-------|-----------|---------------|
+| Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bugfixes. Feature development (Annotation templates / Questionnaire). | [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) |
+| Paycer protocol | React; JS, CSS, HTML | UI feature development with Web3 APIs. | [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) |
+
+<br>
+
+---
+
+<br>
+
+## Profiles
+
+### Repositories
 
 | GitHub | About |
 |--------|-------|
@@ -31,7 +57,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | [TheRemoteCoder](https://github.com/TheRemoteCoder) | Published sources, Technology archive, Playgrounds |
 | [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides + Tutorials |
 
-### Profiles
+### Misc
 
 | Website | About |
 |---------|-------|
@@ -39,21 +65,11 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 | [Blog - Dev](https://www.theremotecoder.com) | IT & Dev nerdery |
 | [Blog - Design](https://www.drawfulmind.com) | Graphic design, UI, Arts |
 
-<br><br>
+<br>
 
+---
 
-## Contributions
-
-Public project contributions in OpenSource and paid projects.
-
-| Project | Stack | Work done | Links |
-|---------|-------|-----------|-------|
-| Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bugfixes. Feature development (Annotation templates / Questionnaire). | [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) |
-| Paycer protocol | React; JS, CSS, HTML | UI feature development with Web3 APIs. | [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) |
-
-
-<br><br>
-
+<br>
 
 ## Tech stack
 
@@ -131,14 +147,18 @@ Side projects, technical explorations, historic experience:
 
 ### Where I want to go
 
+A-Z sorted.
+
 - AI / ML / LLMs
 - Databases (NoSQL, Graph, Vector)
-- Mobile/Hybrid applications
 - Data science
+- Mobile/Hybrid applications
 
+<br>
 
-<br><br>
+---
 
+<br>
 
 ## Get in touch
 
@@ -157,20 +177,14 @@ PGP-key for encrypted emails:
 
 - [Download key](http://static.codeconut.io/pgp-keys/info-codeconut.asc)
 
-
 <br><br>
 
-
 <div align="center">
-
 <!--
 Disabled as rate limiting would need own deployment. Keep for future uses.
 ! [GitHub stats] (https://github-readme-stats.vercel.app/api?username=ChristianOellers&count_private=true&show_icons=true&theme=default)
 ! [Most used languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOellers&hide=&layout=compact&langs_count=20&v=1)
 -->
-
 </div>
-
-
 
 <!-- simpleicons.org -->
