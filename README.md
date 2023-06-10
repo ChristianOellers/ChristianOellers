@@ -4,9 +4,18 @@
 
 I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
 
-✨ &nbsp;Codeconut builds modern web applications with React, Angular, Symfony and WordPress for startups to corporate scale businesses. Alongside I'm available for freelancing.
+✨ &nbsp;I build modern web applications with Angular, React, Symfony and WordPress. Available for freelancing and hiring.
 
-✨ &nbsp;In my spare time, I challenge myself with learning foreign languages, traditional arts, and the magical misuse of modern technologies in probably unintended ways.
+✨ &nbsp;In my spare time, I challenge myself with learning Piano, traditional arts, and the magical misuse of modern technologies in probably unintended ways.
+
+<br>
+
+**TOC**
+
+- [References](#references)
+- [Profiles](#profiles)
+- [Tech stack](#tech-stack)
+- [Contact](#contact)
 
 <br>
 
@@ -147,7 +156,7 @@ Side projects, technical explorations, historic experience:
 
 ### Where I want to go
 
-A-Z sorted.
+Priorities depend on personal requirements and potential opportunities.
 
 - AI / ML / LLMs
 - Databases (NoSQL, Graph, Vector)
@@ -160,7 +169,9 @@ A-Z sorted.
 
 <br>
 
-## Get in touch
+## Contact
+
+Let's get in touch and talk about your next project!
 
 ### Talk
 
