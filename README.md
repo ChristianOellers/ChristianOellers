@@ -2,7 +2,7 @@
 
 # Hi, I'm Christian!
 
-I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in Cyprus ☀️
+I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in sunny Cyprus 🇨🇾.
 
 ✨ &nbsp;I build modern web applications with Angular, React, Symfony and WordPress. Available for freelancing and hiring.
 
@@ -39,6 +39,10 @@ Live demos.
 | Game | [Vector-Storm](https://vector-storm.vercel.app) | TS, HTML5, CSS3, Canvas | Abstract arcade shooter | [GitHub](https://github.com/ChristianOellers/Vector-Storm) | / |
 
 _Background details and insights into their development available in personal talks._
+
+> Statement on [work quality](README-HIRE.md)
+
+<br>
 
 ### Contributions
 
