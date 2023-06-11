@@ -2,11 +2,11 @@
 
 # Hi, I'm Christian!
 
-I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in sunny Cyprus 🇨🇾.
+I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in sunny Cyprus 🇨🇾
 
 ✨ &nbsp;I build modern web applications with Angular, React, Symfony and WordPress. Available for freelancing and hiring.
 
-✨ &nbsp;In my spare time, I challenge myself with learning Piano, traditional arts, and the magical misuse of modern technologies in probably unintended ways.
+✨ &nbsp;In my spare time, I challenge myself with Graphic Design, learning Piano, and the magical misuse of technology in unintended ways.
 
 <br>
 
@@ -27,14 +27,14 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ### Projects
 
-Live demos.
+Selection of live applications.
 
 | Category | Link | Stack | About | Code | Notes |
 |----------|-------|-------|------|------|-------|
 | / | [CodePen](https://codepen.io/TheRemoteCoder) | JS, TS, HTML5, CSS3, Canvas | Experiments, tech-demos, layouts in frontend stack | / | / |
 | App | [Video E-Learning](https://project-6-1.codeconut.io/?apiKey=&videoId=1) | JS, HTML5, CSS3, Webpack, Bootstrap | Video annotated learning - University students | / | Ask for `apiKey` to access |
 | App | [Market products store](https://project-1-0.codeconut.io) | React, Recoil, TS, Bootstrap | Marketplace cart and product register | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | / |
-| App | [Codeconut](https://www.codeconut.io) | Angular, TS, Bootstrap | Own website | / | With some easter eggs :) |
+| App | [Codeconut](https://www.codeconut.io) | Angular, TS, Bootstrap | Own website | / | With some Easter eggs :) |
 | Game | [Silent Space](https://silent-space.vercel.app) | JS, HTML5, CSS3, Canvas | Atmospheric space game concept | [GitHub](https://github.com/ChristianOellers/Silent-Space) | / |
 | Game | [Vector-Storm](https://vector-storm.vercel.app) | TS, HTML5, CSS3, Canvas | Abstract arcade shooter | [GitHub](https://github.com/ChristianOellers/Vector-Storm) | / |
 
@@ -46,12 +46,25 @@ _Background details and insights into their development available in personal ta
 
 ### Contributions
 
-Public project contributions in OpenSource and paid projects.
+Public contributions in Open Source and paid settings.
 
 | Project | Stack | Challenges solved | Links |
 |---------|-------|-----------|---------------|
-| Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bugfixes. Feature development (Annotation templates / Questionnaire). | [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) |
+| Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). | [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) |
 | Paycer protocol | React; JS, CSS, HTML | UI feature development with Web3 APIs. | [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) |
+
+<br>
+
+### Repositories
+
+Published code from snippets to full apps.
+
+| GitHub | About |
+|--------|-------|
+| [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development, Personal interests |
+| [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
+| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Published sources, Technology archive, Playgrounds |
+| [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides + Tutorials |
 
 <br>
 
@@ -61,22 +74,26 @@ Public project contributions in OpenSource and paid projects.
 
 ## Profiles
 
-### Repositories
-
-| GitHub | About |
-|--------|-------|
-| [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development, Personal interests |
-| [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
-| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Published sources, Technology archive, Playgrounds |
-| [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides + Tutorials |
-
-### Misc
+### Development
 
 | Website | About |
 |---------|-------|
 | [Stack Overflow](https://stackoverflow.com/users/1045692/theremotecoder) | Developer profile |
-| [Blog - Dev](https://www.theremotecoder.com) | IT & Dev nerdery |
-| [Blog - Design](https://www.drawfulmind.com) | Graphic design, UI, Arts |
+| [Blog](https://www.theremotecoder.com) | IT & Dev nerdery |
+| [Instagram](https://www.instagram.com/the.remote.coder) | Thoughts, Snippets, ideas |
+
+### Design
+
+<!--
+| [Dribbble](...) | UI/ UX, Web design, Layouting, Concepts |
+| [Behance](...) | Brand Identity Design, Logo Design |
+-->
+
+| Website | About |
+|---------|-------|
+| [Artstation](https://www.artstation.com/drawfulmind) | Digital arts, Photo editing |
+| [Blog](https://www.drawfulmind.com) | Graphic design, UI, Arts |
+| [Instagram](https://www.instagram.com/drawful.mind) | Digital & Traditional arts |
 
 <br>
 
@@ -88,13 +105,13 @@ Public project contributions in OpenSource and paid projects.
 
 My current self, historical experience and future desired directions.
 
-_Decisions are driven by sustainability and commercial factors. I prefer to focus on fewer things and become better at these over getting involved in too many technologies (speaking of prioritizing my time and educational costs, especially to maintain them in the future)._
+_Decisions are driven by sustainability and commercial factors (priority of time and educational costs).
+I prefer to focus on fewer things and become better at these._
 
 ### What I work with
 
-Where I've realized projects and keep working with. Prioritized:
+Where I've realized projects and keep working with.
 
-![OpenAi](https://img.shields.io/badge/OpenAI-635242?logo=openai&labelColor=635242&logoColor=white)
 ![React](https://img.shields.io/badge/React-635242?logo=react&labelColor=635242&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-635242?logo=angular&labelColor=635242&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-635242?logo=symfony&labelColor=635242&logoColor=white)
@@ -103,6 +120,7 @@ Where I've realized projects and keep working with. Prioritized:
 ![Next.js](https://img.shields.io/badge/Next.js-635242?logo=next.js&labelColor=635242&logoColor=white)
 ![RxJS](https://img.shields.io/badge/ReactiveX-635242?logo=reactivex&labelColor=635242&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESlint-635242?logo=eslint&labelColor=635242&logoColor=white)
+![OpenAi](https://img.shields.io/badge/OpenAI-635242?logo=openai&labelColor=635242&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-635242?logo=javascript&labelColor=635242&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-635242?logo=typescript&labelColor=635242&logoColor=white)
@@ -162,7 +180,7 @@ Side projects, technical explorations, historic experience:
 
 Priorities depend on personal requirements and potential opportunities.
 
-- AI / ML / LLMs
+- AI / ML / LLM
 - Databases (NoSQL, Graph, Vector)
 - Data science
 - Mobile/Hybrid applications
