@@ -27,7 +27,7 @@ I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codec
 
 ### Projects
 
-Selection of live applications.
+#### Live applications
 
 | Category | Link | Stack | About | Code | Notes |
 |----------|-------|-------|------|------|-------|
@@ -37,6 +37,8 @@ Selection of live applications.
 | App | [Codeconut](https://www.codeconut.io) | Angular, TS, Bootstrap | Own website | / | With some Easter eggs :) |
 | Game | [Silent Space](https://silent-space.vercel.app) | JS, HTML5, CSS3, Canvas | Atmospheric space game concept | [GitHub](https://github.com/ChristianOellers/Silent-Space) | / |
 | Game | [Vector-Storm](https://vector-storm.vercel.app) | TS, HTML5, CSS3, Canvas | Abstract arcade shooter | [GitHub](https://github.com/ChristianOellers/Vector-Storm) | / |
+
+#### Side notes
 
 _Background details and insights into their development available in personal talks._
 
