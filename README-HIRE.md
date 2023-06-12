@@ -7,6 +7,7 @@ Things you might find insightful.
 **TOC**
 
 - [Q+A](#q+a)
+- [References](#references)
 - [Work quality](#work-quality)
 
 <br>
@@ -19,6 +20,20 @@ Things you might find insightful.
 
 Please refer to the [FAQ section](https://www.codeconut.io/faq) of my company, which describes it in greater detail.
 You'll find answers about clients I take, team and workflow experience and work ethics and philosophies.
+
+<br>
+
+---
+
+<br>
+
+#### References
+
+Besides the live applications and CV-ish overview you'll find under [README](README.md), I've published other works as PDFs and images.
+
+> [Work references](https://static.codeconut.io/codeconut/references)
+
+These are complementary to Development projects seen here, but also contain Graphic Design, Branding and any other skill I might professionally pursue. Please note that these other references are uncommented. Contact me for any project details.
 
 <br>
 
