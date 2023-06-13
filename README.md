@@ -195,7 +195,7 @@ Priorities depend on personal requirements and potential opportunities.
 - AI / ML / LLM
 - Databases (NoSQL, Graph, Vector)
 - Data science
-- Mobile/Hybrid applications
+- Mobile/ Hybrid applications
 
 <br>
 
@@ -226,7 +226,7 @@ Encrypted emails: [PGP key](http://static.codeconut.io/pgp-keys/info-codeconut.a
 
 <div align="center">
 
-> _"Good ideas are always crazy until they're not" – Larry Page_
+_"Good ideas are always crazy until they're not" – Larry Page_
 
 <br>
 
