@@ -47,7 +47,7 @@ Focused on development - apps, websites, tech-demos:
 
 Focused on web design, UI, branding and graphic design:
 
-- [Files](https://static.codeconut.io/codeconut/references)
+- [Files](https://static.codeconut.io/references)
 
 <br>
 
