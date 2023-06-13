@@ -26,7 +26,7 @@ In a nutshell, I'm ...
 
 <br>
 
-## 🌟 References
+## References
 
 ### Projects
 
@@ -45,7 +45,7 @@ In a nutshell, I'm ...
 
 Background details and insights into their development available in personal talks.
 
-Find additional references and infos about hiring here:
+🌟 Find additional references and infos about hiring here:
 
 > [HIRING](README-HIRE.md)
 
@@ -79,7 +79,9 @@ Published code from snippets to full apps.
 
 <br>
 
-## 🔍 Profiles
+## Profiles
+
+🔍 What I do somewhere else.
 
 ### Development
 
@@ -105,9 +107,9 @@ Published code from snippets to full apps.
 
 <br>
 
-## 💾 Tech stack
+## Tech stack
 
-My current self, historical experience and future desired directions.
+My current self, past experience and future desired directions.
 
 _Decisions are driven by sustainability and commercial factors (priority of time and educational costs).
 I prefer to focus on fewer things and become better at these._
@@ -153,7 +155,7 @@ Where I've realized projects and keep working with.
 
 ### What I know about
 
-Side projects, technical explorations, historic experience:
+Side projects, technical explorations, 💾 experience:
 
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-635242?logo=backbone.js&labelColor=635242&logoColor=white)
 ![Cisco Meraki Dashboard API](https://img.shields.io/badge/Cisco-635242?logo=cisco&labelColor=635242&logoColor=white)
@@ -194,9 +196,9 @@ Priorities depend on personal requirements and potential opportunities.
 
 <br>
 
-## 🖖🏻 Contact
+## Contact
 
-Let's get in touch and talk about your next project!
+Let's get in touch and talk about your next project! 🖖🏻
 
 ### Connect
 
