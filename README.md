@@ -83,7 +83,7 @@ Published code from snippets to full apps.
 
 🔍 What I do somewhere else.
 
-### Development
+### Development & IT
 
 | Website | About |
 |---------|-------|
@@ -91,7 +91,7 @@ Published code from snippets to full apps.
 | [Blog](https://www.theremotecoder.com) | IT & Dev nerdery |
 | [Instagram](https://www.instagram.com/the.remote.coder) | Thoughts, Snippets, ideas |
 
-### Design
+### Design & Arts
 
 | Website | About | Infos |
 |---------|-------|-------|
@@ -100,6 +100,11 @@ Published code from snippets to full apps.
 | [Artstation](https://www.artstation.com/drawfulmind) | Digital arts, Photo editing | / |
 | [Behance](https://www.behance.net/DrawfulMind) | Brand Identity Design | / |
 | [Dribbble](https://www.dribbble.com/DrawfulMind) | UI, UX, Web Design, Concepts | Copy URL (Dribbble has a 403 bug) |
+
+### Private
+
+| [Soundcloud](https://soundcloud.com/christian-oellers-cyp) | Music | / |
+| [Flickr](https://www.flickr.com/people/drawfulmind) | Photography | / |
 
 <br>
 
