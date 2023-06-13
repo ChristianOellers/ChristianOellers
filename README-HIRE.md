@@ -1,14 +1,15 @@
 # Let's work together!
 
-Things you might find insightful.
+Information for hiring, contract work and freelancing cooperations.
 
 <br>
 
 **TOC**
 
-- [Q+A](#q+a)
+- [Q+A](#qa)
 - [References](#references)
 - [Work quality](#work-quality)
+- [Contact](#contact)
 
 <br>
 
@@ -18,8 +19,13 @@ Things you might find insightful.
 
 ## Q+A
 
-Please refer to the [FAQ section](https://www.codeconut.io/faq) of my company, which describes it in greater detail.
-You'll find answers about clients I take, team and workflow experience and work ethics and philosophies.
+### What clients & projects do you work with?
+
+Please refer to the FAQ section of [Codeconut Ltd.](https://www.codeconut.io), which answers questions about clients, projects, team settings.
+
+### What can you tell us about yourself?
+
+See the [README](README.md) for anything regarding development. Check LinkedIn for my background and CV-ish details. Or get in touch directly and ask me anything else :)
 
 <br>
 
@@ -27,13 +33,21 @@ You'll find answers about clients I take, team and workflow experience and work 
 
 <br>
 
-#### References
+## References
 
-Besides the live applications and CV-ish overview you'll find under [README](README.md), I've published other works as PDFs and images.
+Some references are uncommented and might need further clarification of context, purpose and project scope. As this would exceed the limits of the mediums, best contact me for any details of particular interest.
 
-> [Work references](https://static.codeconut.io/codeconut/references)
+### Live / Files
 
-These are complementary to Development projects seen here, but also contain Graphic Design, Branding and any other skill I might professionally pursue. Please note that these other references are uncommented. Contact me for any project details.
+Focused on development - apps, websites, tech-demos:
+
+- [Links](README.md)
+
+### Portfolio & Demo files
+
+Focused on web design, UI, branding and graphic design:
+
+- [Files](https://static.codeconut.io/codeconut/references)
 
 <br>
 
@@ -43,21 +57,11 @@ These are complementary to Development projects seen here, but also contain Grap
 
 ## Work quality
 
-The difference between personal and commercial works:
+The difference between personal and commercial works.
 
-Most projects you'll find here are my own, without community contributors or commercial purposes.
-This is not intended, and all is done in unpaid spare time. I decided to sacrifice some quality standards for the benefit of faster workflows
-and focusing on getting things done _(especially regarding commits, branching, PRs, linting/formatting)_. Some projects have been done many years ago,
-and while I might keep updating them, it's unlikely they'll receive a full refactoring from scratch.
+### Commercial settings
 
-When assigned to a team or working in a commercial setting, the level of quality and attention spend on these standards and workflows is much higher.
-For instance, I'd pay attention to proper branching, ticket systems and squash/rebase workflows. Review my public client references [README](README.md).
-
-Thank you for your understanding :)
-
-### Proof
-
-Examples of high quality results in commercial settings:
+Work done for clients. Examples of higher quality working standards.
 
 <details>
   <summary>Source code</summary>
@@ -72,3 +76,31 @@ Examples of high quality results in commercial settings:
   ![Commit structure](assets/work-quality/commits.png)
 
 </details>
+
+<br>
+
+### Private settings
+
+Besides the client projects; most others are my own, without a community, contributors or commercial purposes. All is done in unpaid spare time. I decided to sacrifice some best practices and quality standards for the benefit of faster workflows.
+
+> I prefer to focus on getting things done _(especially regarding commits, branching, PRs, linting/formatting, OOP abstraction)_.
+
+Some projects have been done many years ago, and while I might keep updating them, it's unlikely they'll receive updates or a full refactoring from scratch.
+
+> Sometimes the best stack is almost no stack, as it keeps complexity low and solutions transferrable, independent of e.g. package manager hiccups and legacy declarations over time.
+
+When assigned to a team or working in a commercial setting, the level of quality and attention spend on these standards and workflows is much higher. For instance, I'd pay attention to proper branching, ticket systems and squash/rebase workflows. Review my public client references [README](README.md).
+
+Thank you for your understanding :)
+
+<br>
+
+---
+
+<br>
+
+## Contact
+
+Tell me how I can support your next project:
+
+- [Contact](README.md#contact)
