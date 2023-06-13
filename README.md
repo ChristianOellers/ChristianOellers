@@ -103,8 +103,10 @@ Published code from snippets to full apps.
 
 ### Private
 
-| [Soundcloud](https://soundcloud.com/christian-oellers-cyp) | Music | / |
-| [Flickr](https://www.flickr.com/people/drawfulmind) | Photography | / |
+| Website | About |
+|---------|-------|
+| [Soundcloud](https://soundcloud.com/christian-oellers-cyp) | Music |
+| [Flickr](https://www.flickr.com/people/drawfulmind) | Photography |
 
 <br>
 
