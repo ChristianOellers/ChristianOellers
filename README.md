@@ -32,23 +32,21 @@ In a nutshell, I'm ...
 
 #### Live applications
 
-| Links | Code | Category | Stack | About |
-|-------|------|----------|-------|-------|
-| [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TypeScript, HTML 5, CSS X, Canvas | Experiments, tech-demos, layouts in frontend stack |
-| [1](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [2](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [3](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | JS, HTML 5, CSS X, Webpack, Bootstrap, Java | Video annotated learning - University students |
-| [Market products store](https://project-1-0.codeconut.io) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, TS, Bootstrap | Marketplace cart and product register |
-| [Codeconut](https://www.codeconut.io) | / | App | Angular, Bootstrap, TypeScript, HTML 5, CSS X | Own website |
-| [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap, JS, HTML 5, CSS X | Own website |
-| [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, HTML 5, CSS X, Canvas | Atmospheric space game concept |
-| [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, HTML 5, CSS X, Canvas | Abstract arcade shooter |
+| Links | Code | Category | Notable stack | About |
+|-------|------|----------|---------------|-------|
+| [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TypeScript, Canvas | Experiments, tech-demos, layouts in frontend stack |
+| [1](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [2](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [3](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
+| [Market products store](https://project-1-0.codeconut.io) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
+| [Codeconut](https://www.codeconut.io) | / | App | Angular, Bootstrap; TypeScript | Own website |
+| [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap; JS | Own website |
+| [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, Canvas | Atmospheric space game concept |
+| [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, Canvas | Abstract arcade shooter |
 
-#### Side notes
+Always included: HTML 5, CSS 3/X.
 
-Background details and insights into their development available in personal talks.
+🌟 Find additional references and infos about [hiring](README-HIRE.md).
 
-🌟 Find additional references and infos about hiring here:
-
-> [HIRING](README-HIRE.md)
+> Background details and insights available in personal talks.
 
 <br>
 
@@ -56,10 +54,12 @@ Background details and insights into their development available in personal tal
 
 Public contributions in Open Source and paid settings.
 
-| Links | Project | Stack | Challenges solved |
-|-------|---------|-------|-------------------|
-| [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | Backbone, Less, Java; JS, CSS, HTML | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
-| [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) | Paycer protocol | React; JS, CSS, HTML | UI feature development with Web3 APIs. |
+| Links | Project | Notable stack | Challenges solved |
+|-------|---------|---------------|-------------------|
+| [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
+| [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) | Paycer protocol | React, Next, web3; TypeScript | UI feature development with Web3 APIs. |
+
+Always included: HTML 5, CSS 3/X.
 
 <br>
 
