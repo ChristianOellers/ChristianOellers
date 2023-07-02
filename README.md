@@ -34,12 +34,13 @@ In a nutshell, I'm ...
 
 | Links | Code | Category | Stack | About |
 |-------|------|----------|-------|-------|
-| [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TS, HTML5, CSS3, Canvas | Experiments, tech-demos, layouts in frontend stack |
-| [1](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [2](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [3](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | JS, HTML5, CSS3, Webpack, Bootstrap | Video annotated learning - University students |
+| [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TypeScript, HTML 5, CSS X, Canvas | Experiments, tech-demos, layouts in frontend stack |
+| [1](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [2](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [3](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | JS, HTML 5, CSS X, Webpack, Bootstrap, Java | Video annotated learning - University students |
 | [Market products store](https://project-1-0.codeconut.io) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, TS, Bootstrap | Marketplace cart and product register |
-| [Codeconut](https://www.codeconut.io) | / | App | Angular, TS, Bootstrap | Own website |
-| [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, HTML5, CSS3, Canvas | Atmospheric space game concept |
-| [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TS, HTML5, CSS3, Canvas | Abstract arcade shooter |
+| [Codeconut](https://www.codeconut.io) | / | App | Angular, Bootstrap, TypeScript, HTML 5, CSS X | Own website |
+| [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap, JS, HTML 5, CSS X | Own website |
+| [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, HTML 5, CSS X, Canvas | Atmospheric space game concept |
+| [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, HTML 5, CSS X, Canvas | Abstract arcade shooter |
 
 #### Side notes
 
@@ -139,7 +140,7 @@ Where I've realized projects and keep working with.
 ![PHP](https://img.shields.io/badge/PHP-c34342?logo=php&labelColor=c34342&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-c34342?logo=mysql&labelColor=c34342&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-c34342?logo=sass&labelColor=c34342&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS%203-c34342?logo=css3&labelColor=c34342&logoColor=white)
+![CSS X](https://img.shields.io/badge/CSS%203-c34342?logo=css3&labelColor=c34342&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML%205-c34342?logo=html5&labelColor=c34342&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-c34342?logo=gnu%20bash&labelColor=c34342&logoColor=white)
 ![python](https://img.shields.io/badge/python-c34342?logo=python&labelColor=c34342&logoColor=white)
