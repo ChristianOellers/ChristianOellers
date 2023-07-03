@@ -35,7 +35,7 @@ In a nutshell, I'm ...
 | Links | Code | Category | Notable stack | About |
 |-------|------|----------|---------------|-------|
 | [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TypeScript, Canvas | Experiments, tech-demos, layouts in frontend stack |
-| [1](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [2](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [3](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
+| [01](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
 | [Market products store](https://project-1-0.codeconut.io) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
 | [Codeconut](https://www.codeconut.io) | / | App | Angular, Bootstrap; TypeScript | Own website |
 | [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap; JS | Own website |
@@ -56,8 +56,8 @@ Public contributions in Open Source and paid settings.
 
 | Links | Project | Notable stack | Challenges solved |
 |-------|---------|---------------|-------------------|
-| [1](https://github.com/opencast/annotation-tool/pull/603), [2](https://github.com/opencast/annotation-tool/pull/604), [3](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
-| [1](https://github.com/paycer-protocol/paycer-prototype/pull/62), [2](https://github.com/paycer-protocol/paycer-prototype/pull/67) | Paycer protocol | React, Next, web3; TypeScript | UI feature development with Web3 APIs. |
+| [01](https://github.com/opencast/annotation-tool/pull/603), [02](https://github.com/opencast/annotation-tool/pull/604), [03](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
+| [01](https://github.com/paycer-protocol/paycer-prototype/pull/62), [02](https://github.com/paycer-protocol/paycer-prototype/pull/67) | Paycer protocol | React, Next, web3; TypeScript | UI feature development with Web3 APIs. |
 
 Always included: HTML 5, CSS 3/X.
 
