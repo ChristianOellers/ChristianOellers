@@ -126,8 +126,9 @@ I prefer to focus on fewer things and become better at these._
 
 Where I've realized projects and keep working with.
 
-![React](https://img.shields.io/badge/React-c34342?logo=react&labelColor=c34342&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-c34342?logo=angular&labelColor=c34342&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-c34342?logo=vuedotjs&labelColor=c34342&logoColor=white)
+![React](https://img.shields.io/badge/React-c34342?logo=react&labelColor=c34342&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-c34342?logo=symfony&labelColor=c34342&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/Doctrine-c34342?logo=doctrine&labelColor=c34342&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-c34342?logo=bootstrap&labelColor=c34342&logoColor=white)
@@ -139,11 +140,10 @@ Where I've realized projects and keep working with.
 ![TypeScript](https://img.shields.io/badge/TypeScript-c34342?logo=typescript&labelColor=c34342&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-c34342?logo=php&labelColor=c34342&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-c34342?logo=mysql&labelColor=c34342&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-c34342?logo=sass&labelColor=c34342&logoColor=white)
+![SCSS](https://img.shields.io/badge/SASS-c34342?logo=sass&labelColor=c34342&logoColor=white)
 ![CSS X](https://img.shields.io/badge/CSS%203-c34342?logo=css3&labelColor=c34342&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML%205-c34342?logo=html5&labelColor=c34342&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-c34342?logo=gnu%20bash&labelColor=c34342&logoColor=white)
-![python](https://img.shields.io/badge/python-c34342?logo=python&labelColor=c34342&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/Vercel-c34342?logo=vercel&labelColor=c34342&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-c34342?logo=docker&labelColor=c34342&logoColor=white)
@@ -158,8 +158,7 @@ Where I've realized projects and keep working with.
 ![Figma](https://img.shields.io/badge/Figma-c34342?logo=figma&labelColor=c34342&logoColor=white)
 ![Affinity Suite](https://img.shields.io/badge/Affinity-c34342?logo=affinity&labelColor=c34342&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-c34342?logo=microsoft%20excel&labelColor=c34342&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-c34342?logo=jira&labelColor=c34342&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-c34342?logo=confluence&labelColor=c34342&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-c34342?logo=asana&labelColor=c34342&logoColor=white)
 
 ### What I know about
 
@@ -174,7 +173,9 @@ Side projects, technical explorations, 💾 experience:
 ![Grunt](https://img.shields.io/badge/Grunt-635242?logo=grunt&labelColor=635242&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-635242?logo=magento&labelColor=635242&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-635242?logo=node.js&labelColor=635242&logoColor=white)
+![python](https://img.shields.io/badge/python-635242?logo=python&labelColor=635242&logoColor=white)
 ![Robot (FSM)](https://img.shields.io/static/v1?label=&message=Robot&color=635242)
+![Shopware](https://img.shields.io/badge/Shopware-635242?logo=shopware&labelColor=635242&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-635242?logo=three.js&labelColor=635242&logoColor=white)
 ![Underscore](https://img.shields.io/badge/Underscore-635242?logo=underscore&labelColor=635242&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-635242?logo=vue.js&labelColor=635242&logoColor=white)
@@ -186,8 +187,12 @@ Side projects, technical explorations, 💾 experience:
 ![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
 ![Zend Framework](https://img.shields.io/badge/Zend%20Framework-635242?logo=zend%20framework&labelColor=635242&logoColor=white)
 
+![Jira](https://img.shields.io/badge/Jira-635242?logo=jira&labelColor=635242&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-635242?logo=confluence&labelColor=635242&logoColor=white)
 ![Adobe Suite](https://img.shields.io/badge/Adobe-635242?logo=adobe&labelColor=635242&logoColor=white)
+![Shotcut](https://img.shields.io/badge/Shotcut-635242?logo=shotcut&labelColor=635242&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-635242?logo=blender&labelColor=635242&logoColor=white)
+![REAPER (DAW)](https://img.shields.io/badge/REAPER-635242?logo=reaper&labelColor=635242&logoColor=white)
 
 ### Where I want to go
 
