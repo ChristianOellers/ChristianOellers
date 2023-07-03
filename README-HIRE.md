@@ -48,6 +48,7 @@ Focused on development - apps, websites, tech-demos:
 Focused on web design, UI, branding and graphic design:
 
 - [Files](https://static.codeconut.io/references)
+- [Static code](https://github.com/TheRemoteCoder/Code-Portfolio-Examples)
 
 <br>
 
