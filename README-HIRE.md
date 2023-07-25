@@ -66,7 +66,7 @@ Information for hiring, contract work, and freelancing cooperation.
 
  There is no need to rush through our lives and work overshifts due to excessive meetings or task burdens. Plan smart and plan ahead. Avoid pointless work and optimize processes. Learn to use a stack to become better and faster at it. Happiness and a stable social life ensure maximum productivity in less time. All that matters are progress and results – less when or how they are achieved.
 
- If you're looking for something to be finished ASAP or run a startup in its early stages, you might find yourself wanting to work with a larger team instead. However, let's get in touch when things grow or larger feature sets with more planning need to be realized!
+ _If you're looking for something to be finished ASAP or run a startup in its early stages, you might find yourself wanting to work with a larger team instead. However, let's get in touch when things grow or larger feature sets with more planning need to be realized!_
 </details>
 
 <br>
