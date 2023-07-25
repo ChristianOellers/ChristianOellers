@@ -194,6 +194,9 @@ Side projects, technical explorations, 💾 experience:
 ![Blender](https://img.shields.io/badge/Blender-635242?logo=blender&labelColor=635242&logoColor=white)
 ![REAPER (DAW)](https://img.shields.io/badge/REAPER-635242?logo=reaper&labelColor=635242&logoColor=white)
 
+_Some of the tooling behind the scenes: Can I Use, Prettier, Snyk, Webhint._
+
+
 ### Where I want to go
 
 Priorities depend on personal requirements and potential opportunities.
