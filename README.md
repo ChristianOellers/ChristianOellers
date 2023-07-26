@@ -2,14 +2,14 @@
 
 # Hi, I'm Christian
 
-I work as Full-Stack Developer for my own company [Codeconut Ltd.](https://codeconut.io) founded 2019 in sunny Cyprus. 🇨🇾
+I work as Full-Stack Developer for my own company Codeconut Ltd. founded 2019 in sunny Cyprus. 🇨🇾
 
 In a nutshell, I'm ...
 
-- 💻 Crafting custom web apps with Angular, React, Symfony
+- 💻 Crafting custom web apps with Angular, React, Symfony
 - 🔥 Script kiddie since 2000; professional since 2008
-- ✨ Passionate about E-Learning, game development and modern stacks
-- 🌱 Challenging myself with learning Piano and traditional arts
+- ✨ Passionate about e-learning, game development, and modern stacks
+- 🌱 Challenging myself with learning piano and traditional arts
 
 <br>
 
@@ -52,7 +52,7 @@ Always included: HTML 5, CSS 3/X.
 
 ### Contributions
 
-Public contributions in Open Source and paid settings.
+Public contributions in open-source and paid settings.
 
 | Links | Project | Notable stack | Challenges solved |
 |-------|---------|---------------|-------------------|
@@ -65,7 +65,7 @@ Always included: HTML 5, CSS 3/X.
 
 ### Repositories
 
-Published code from snippets to full apps.
+Published code, from snippets to full apps.
 
 | GitHub | About |
 |--------|-------|
@@ -117,10 +117,10 @@ Published code from snippets to full apps.
 
 ## Tech stack
 
-My current self, past experience and future desired directions.
+My current self, past experiences, and future desired directions.
 
 _Decisions are driven by sustainability and commercial factors (priority of time and educational costs).
-I prefer to focus on fewer things and become better at these._
+I prefer to focus on fewer things and become better at them._
 
 ### What I work with
 
