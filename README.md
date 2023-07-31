@@ -42,11 +42,16 @@ In a nutshell, I'm ...
 | [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, Canvas | Atmospheric space game concept |
 | [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, Canvas | Abstract arcade shooter |
 
-Always included: HTML 5, CSS 3/X.
+Always included: HTML 5, CSS 3/X. Background details and insights available in personal talks.
 
-🌟 Find additional references and infos about [hiring](README-HIRE.md).
+🌟 Find additional infos under [hiring](README-HIRE.md).
 
-> Background details and insights available in personal talks.
+<br>
+
+### Code & Demo files
+
+- [Web Design, UI, Branding, Graphic Design](https://static.codeconut.io/references)
+- [Code Quality, Stack](https://github.com/TheRemoteCoder/Code-Portfolio-Examples)
 
 <br>
 
