@@ -81,16 +81,7 @@ Some references are uncommented and might need further clarification of context,
 
 ### Live / Files
 
-Focused on development - Apps, websites, tech-demos:
-
-- [Links](README.md)
-
-### Portfolio & Demo files
-
-Focused on web design, UI, branding, and graphic design:
-
-- [Files](https://static.codeconut.io/references)
-- [Static code](https://github.com/TheRemoteCoder/Code-Portfolio-Examples)
+Find all under [Links](README.md).
 
 <br>
 
