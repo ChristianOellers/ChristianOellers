@@ -22,7 +22,7 @@ Information for hiring, contract work, and freelancing cooperation.
 <details>
  <summary>What clients & projects do you work with?</summary>
 
- Please refer to the FAQ section of [Codeconut Ltd.](https://www.codeconut.io), which answers questions about clients, projects, and team settings.
+ Please refer to the FAQ section of [Codeconut Ltd.](https://www.codeconutltd.com), which answers questions about clients, projects, and team settings.
 
  _Broadly speaking: I prefer established clients with at least 1-2 years of market existence, post-startup growth phases, an existing team, and solid funding. I don't work with early-stage startups or on large scale refactoring projects._
 </details>
