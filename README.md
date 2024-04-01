@@ -35,9 +35,9 @@ In a nutshell, I'm ...
 | Links | Code | Category | Notable stack | About |
 |-------|------|----------|---------------|-------|
 | [CodePen](https://codepen.io/TheRemoteCoder) | ← | / | JS, TypeScript, Canvas | Experiments, tech-demos, layouts in frontend stack |
-| [01](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconut.io/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
-| [Market products store](https://project-1-0.codeconut.io) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
-| [Codeconut](https://www.codeconut.io) | / | App | Angular, Bootstrap; TypeScript | Own website |
+| [01](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
+| [Market products store](https://project-1-0.codeconutltd.com) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
+| [Codeconut](https://www.codeconutltd.com) | / | App | Angular, Bootstrap; TypeScript | Own website |
 | [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap; JS | Own website |
 | [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, Canvas | Atmospheric space game concept |
 | [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, Canvas | Abstract arcade shooter |
@@ -50,7 +50,7 @@ Always included: HTML 5, CSS 3/X. Background details and insights available in p
 
 ### Code & Demo files
 
-- [Web Design, UI, Branding, Graphic Design](https://static.codeconut.io/references)
+- [Web Design, UI, Branding, Graphic Design](https://static.codeconutltd.com/references)
 - [Code Quality, Stack](https://github.com/TheRemoteCoder/Code-Portfolio-Examples)
 
 <br>
@@ -94,14 +94,12 @@ Published code, from snippets to full apps.
 | Website | About |
 |---------|-------|
 | [Stack Overflow](https://stackoverflow.com/users/1045692/theremotecoder) | Developer profile |
-| [Blog](https://www.theremotecoder.com) | IT & Dev nerdery |
 | [Instagram](https://www.instagram.com/the.remote.coder) | Thoughts, Snippets, ideas |
 
 ### Design & Arts
 
 | Website | About | Infos |
 |---------|-------|-------|
-| [Blog](https://www.drawfulmind.com) | Graphic design, UI, Arts | / |
 | [Instagram](https://www.instagram.com/drawful.mind) | Digital & Traditional arts | / |
 | [Artstation](https://www.artstation.com/drawfulmind) | Digital arts, Photo editing | / |
 | [Behance](https://www.behance.net/DrawfulMind) | Brand Identity Design | / |
@@ -228,9 +226,9 @@ Let's get in touch and talk about your next project! 🖖🏻
 
 ### Chat
 
-[![Email](https://img.shields.io/badge/•-Email-343a40.svg?style=for-the-badge&colorA=343a40)](mailto:info@codeconut.io)
+[![Email](https://img.shields.io/badge/•-Email-343a40.svg?style=for-the-badge&colorA=343a40)](mailto:info@codeconutltd.com)
 
-Encrypted emails: [PGP key](http://static.codeconut.io/pgp-keys/info-codeconut.asc)
+Encrypted emails: [PGP key](http://static.codeconutltd.com/pgp-keys/info-codeconut.asc)
 
 <br>
 
