@@ -143,7 +143,7 @@ Where I've realized projects and keep working with:
 ![React](https://img.shields.io/badge/React-c34342?logo=react&labelColor=c34342&logoColor=white)
 ![RxJS](https://img.shields.io/badge/ReactiveX-c34342?logo=reactivex&labelColor=c34342&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SASS-c34342?logo=sass&labelColor=c34342&logoColor=white)
-![Shopware](https://img.shields.io/badge/Shopware-635242?logo=shopware&labelColor=635242&logoColor=white)
+![Shopware](https://img.shields.io/badge/Shopware-c34342?logo=shopware&labelColor=c34342&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-c34342?logo=symfony&labelColor=c34342&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-c34342?logo=typescript&labelColor=c34342&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-c34342?logo=vuedotjs&labelColor=c34342&logoColor=white)
@@ -167,7 +167,7 @@ Where I've realized projects and keep working with:
 
 Side projects, technical explorations, 💾 experience:
 
-![Angular](https://img.shields.io/badge/Angular-c34342?logo=angular&labelColor=c34342&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-635242?logo=angular&labelColor=635242&logoColor=white)
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-635242?logo=backbone.js&labelColor=635242&logoColor=white)
 ![Cisco Meraki Dashboard API](https://img.shields.io/badge/Cisco-635242?logo=cisco&labelColor=635242&logoColor=white)
 ![Contao CMS](https://img.shields.io/static/v1?label=&message=Contao%20CMS&color=635242)
