@@ -98,7 +98,7 @@ Side projects, technical explorations, 💾 experience:
 ![python](https://img.shields.io/badge/python-635242?logo=python&labelColor=635242&logoColor=white)
 ![Robot](https://img.shields.io/static/v1?label=&message=Robot&color=635242)
 ![RxJS](https://img.shields.io/badge/ReactiveX-635242?logo=reactivex&labelColor=635242&logoColor=white)
-![Solr](https://img.shields.io/badge/Solr-635242?logo=solr&labelColor=635242&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-635242?logo=apachesolr&labelColor=635242&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-635242?logo=sonarcloud&labelColor=635242&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-635242?logo=three.js&labelColor=635242&logoColor=white)
 ![Underscore](https://img.shields.io/badge/Underscore-635242?logo=underscore&labelColor=635242&logoColor=white)
