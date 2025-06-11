@@ -143,5 +143,10 @@ Let's get in touch and talk about your next project! 🖖🏻
 
 ---
 
+![2025-06-07 - SW Template Designer](https://github.com/user-attachments/assets/c4d1f64a-5bcb-406b-9dc2-d92d37144634)
+
+
+---
+
 <!-- github-readme-stats: API rate limiting might need own deployment -->
 <!-- simpleicons.org -->
