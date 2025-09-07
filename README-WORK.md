@@ -32,6 +32,13 @@ All terms are subject to individual negotiation and custom contracts. I’m open
 
 ---
 
+## References
+
+I am open to delivering a tailored technological reference or probation work, given our conditions meet.
+NDA and subcontracting disallow me to disclose some projects I'd otherwise love to show and discuss.
+
+---
+
 <br>
 
 ## Work quality
