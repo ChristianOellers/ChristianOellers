@@ -36,7 +36,6 @@ In a nutshell, I'm ...
 | [01](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=3) | / | App | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
 | [Market products store](https://project-1-0.codeconutltd.com) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | App | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
 | [Codeconut](https://www.codeconutltd.com) | / | App | Angular, Bootstrap; TypeScript | Own website |
-| [Christian Oellers](https://www.christianoellers.com) | / | App | Vue, Bootstrap; JS | Own website |
 | [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | Game | JS, Canvas | Atmospheric space game concept |
 | [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) |Game | TypeScript, Canvas | Abstract arcade shooter |
 
