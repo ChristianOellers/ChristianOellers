@@ -59,7 +59,6 @@ Public contributions in open-source and paid settings.
 | Links | Project | Notable stack | Challenges solved |
 |-------|---------|---------------|-------------------|
 | [01](https://github.com/opencast/annotation-tool/pull/603), [02](https://github.com/opencast/annotation-tool/pull/604), [03](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
-| [01](https://github.com/paycer-protocol/paycer-prototype/pull/62), [02](https://github.com/paycer-protocol/paycer-prototype/pull/67) | Paycer protocol | React, Next, web3; TypeScript | UI feature development with Web3 APIs. |
 
 Always included: HTML 5, CSS 3/X.
 
@@ -77,6 +76,12 @@ Published code, from snippets to full apps.
 | [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides + Tutorials |
 
 <br>
+
+### Please note
+
+NDA and subcontracting disallow me to disclose most projects.
+
+I am open to delivering a tailored technological reference or probation work, given our conditions meet.
 
 ---
 
