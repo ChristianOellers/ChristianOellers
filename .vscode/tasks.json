@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git - Install submodules",
+      "type": "shell",
+      "command": "git submodule update --init --recursive",
+      "group": "build"
+    },
+    {
+      "label": "Git - Update submodules",
+      "type": "shell",
+      "command": "git submodule update --recursive --remote",
+      "group": "build"
+    },
+    {
+      "label": "NPM - Delete modules",
+      "type": "npm",
+      "script": "rm -rf node_modules",
+      "path": ".",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "NPM - Update modules",
+      "type": "npm",
+      "script": "npm update",
+      "path": ".",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}

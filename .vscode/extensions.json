@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "alefragnani.bookmarks",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "eg2.vscode-npm-script",
+    "prettier.prettier-vscode",
+    "stylelint.vscode-stylelint"
+  ]
+}
