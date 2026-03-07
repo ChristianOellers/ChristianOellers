@@ -4,6 +4,68 @@
 
 Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cyprus. 🇨🇾
 
+**TOC**
+
+- [References](#references)
+- [Tech stack](#tech-stack)
+- [Contact](#contact)
+
+<br>
+
+---
+
+<br>
+
+## References
+
+> Contact me to request access _(sometimes required)_
+
+### Development
+
+#### Client and personal works
+
+| Links | Code | Notable stack | About |
+|-------|------|---------------|-------|
+| [CodePen](https://codepen.io/TheRemoteCoder) | – | JS, TypeScript, Canvas | Experiments, tech-demos, layouts in frontend stack |
+| [01](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=3) | – | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students |
+| [Market products store](https://project-1-0.codeconutltd.com) | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | React, Recoil, Bootstrap; TS | Marketplace cart and product register |
+| [Vector-Storm](https://vector-storm.vercel.app) | [GitHub](https://github.com/ChristianOellers/Vector-Storm) | TypeScript, Canvas | Abstract arcade shooter |
+| [Silent Space](https://silent-space.vercel.app) | [GitHub](https://github.com/ChristianOellers/Silent-Space) | JavaScript, Canvas | Architectural proof of concept |
+
+#### Public contributions
+
+| Links | Project | Notable stack | Challenges solved |
+|-------|---------|---------------|-------------------|
+| [01](https://github.com/opencast/annotation-tool/pull/603), [02](https://github.com/opencast/annotation-tool/pull/604), [03](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
+
+<br>
+
+### Repositories
+
+Published code, from snippets to full apps.
+
+| GitHub | About |
+|--------|-------|
+| [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development, Personal interests |
+| [Codeconut Ltd.](https://github.com/Codeconut-Ltd) | Business projects, Collaborative OpenSource |
+| [TheRemoteCoder](https://github.com/TheRemoteCoder) | Published sources, Technology archive, Playgrounds |
+| [Gists](https://gist.github.com/ChristianOellers) | Micro libraries, Code snippets, Guides + Tutorials |
+
+<br>
+
+---
+
+<br>
+
+## Profiles
+
+| Website | Content |
+|---------|---------|
+| [Stack Overflow](https://stackoverflow.com/users/1045692/theremotecoder) | Full-Stack development |
+| [Artstation](https://www.artstation.com/drawfulmind) | Illustrations, photo editing, creative/ game/ 3D art |
+| [Behance](https://www.behance.net/DrawfulMind) | Brand Identity and logo design |
+| [Dribbble](https://www.dribbble.com/DrawfulMind) | UI, UX, Web Design, Concepts |
+
 <br>
 
 ---
