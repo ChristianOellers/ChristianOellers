@@ -1,10 +1,18 @@
-# Hi, I'm Christian
+# Hi, I'm Christian <icon>
 
-Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cyprus. 🇨🇾
+I work as a software developer with experience across industries and a focus on practical, sustainable results.
 
-TOC
+My focus is e-commerce applications and custom application development. I build stable, maintainable software for growing products and teams — especially where quality and long-term sustainability matter in an era of AI-assisted and vibe coding.
 
+I develop e-commerce applications, web apps and SPAs, plugins and extensions for existing systems, CMS and blog solutions, and custom tools and scripts.
+
+## Table of contents
+
+- [Quick facts](#quick-facts)
+- [Service offers](#service-offers)
+- [Terms of engagement](#terms-of-engagement)
 - [References](#references)
+- [Profiles](#profiles)
 - [Tech stack](#tech-stack)
 - [Contact](#contact)
 
@@ -14,9 +22,76 @@ TOC
 
 <br>
 
-## References
+## Quick facts
 
-> Please get in touch for access _(sometimes needed)_
+- 20+ years of software engineering experience
+- 70+ projects across 50+ industries and counting
+- Collaboration with agencies, SMEs, startups and larger organisations
+- Roles: frontend, backend, full-stack, interim team lead and project manager
+- Software training for corporate teams, including CMS use
+
+## Service offers
+
+I partner with clients across industries, preferably SMEs, funded or seed-stage startups, and founders. I can contribute as a greenfield developer, or integrate into an existing project and team.
+
+### All needs
+
+- AI integrations, including content processing and creation
+  - Custom RAG, MCP, prompt engineering and skills
+- Workflow automation
+- Custom web apps, e-commerce shops, blogs and websites
+- Mobile, responsive and fluid web design
+- Technical SEO and GEO integrations
+- Vibe coding workflows and quality improvements
+- Frontend and backend testing and bug fixing
+
+### Growing ambitions
+
+- Back-office tooling, such as staff workflow and performance tools
+- Code quality, stability, tooling and automation with regulatory compliance in mind, including EU requirements
+- Refactoring legacy stacks and iteratively improving architecture
+- Requirements analysis and reverse engineering: defining what a feature should do
+- Frontend accessibility improvements
+- Workflow automation, AI integrations and process optimisation
+
+### Consulting and training
+
+- Consulting on requirements, solutions and application questions
+- Training on AI and software use, data processing and security, including CMS editing and personally identifiable information (PII)
+
+### Audits and reports
+
+- AI and software engineering consulting
+- Web performance analysis and review
+- Functionality and web issue audits
+- UI, UX and brand design reviews for digital and production media
+- Web application security reviews to raise the security baseline
+
+### Arts and design
+
+- AI asset pipelines, automation and prompting
+- UI and UX design: low-fidelity wireframes, prototypes and mock-ups
+- Graphic design and illustration for brand assets, web and print media
+
+## Terms of engagement
+
+- Hired per project or for a set timeframe
+- Freelance engagements
+- Embedded developer contracts
+- Agile, Kanban and Scrum team experience
+- Fixed-price greenfield deliverables
+- Fixed-price engagements for hiring periods of one month or longer
+- Flexible hourly rate agreements
+
+I work independently or with existing teams. I work fully remotely from international locations. Exceptions are possible for a suitable office arrangement where location flexibility is retained.
+
+<br>
+
+---
+
+<br>
+
+## References
 
 ### Development
 
@@ -48,12 +123,6 @@ Published code, from snippets to full apps.
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd)       | Business projects, Collaborative OpenSource                  |
 | [TheRemoteCoder](https://github.com/TheRemoteCoder)      | Published sources, Technology archive, Playgrounds           |
 | [Gists](https://gist.github.com/ChristianOellers)        | Micro libraries, Code snippets, Guides + Tutorials           |
-
-<br>
-
----
-
-<br>
 
 ## Profiles
 
@@ -124,7 +193,7 @@ Main expertise and side projects:
 
 ## Contact
 
-Let's get in touch and talk about your next project!
+Let's get in touch and talk about your next project.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
 
