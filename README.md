@@ -1,19 +1,23 @@
-# Hi, I'm Christian <icon>
+# Christian Oellers
 
-I work as a software developer with experience across industries and a focus on practical, sustainable results.
+Software developer for e-commerce, web applications and practical AI automation.
 
-My focus is e-commerce applications and custom application development. I build stable, maintainable software for growing products and teams — especially where quality and long-term sustainability matter in an era of AI-assisted and vibe coding.
+I help agencies, SMEs, startups and larger organisations build, improve and maintain digital products. My work focuses on stable software, clear processes and sustainable results.
 
-I develop e-commerce applications, web apps and SPAs, plugins and extensions for existing systems, CMS and blog solutions, and custom tools and scripts.
+**Experience**
 
-## Table of contents
+- 20+ years of software engineering
+- 70+ projects across 50+ industries and counting
+- Roles: frontend, backend, full-stack, interim team lead and project manager
+- Software training for corporate teams, including CMS use
 
-- [Quick facts](#quick-facts)
-- [Service offers](#service-offers)
-- [Terms of engagement](#terms-of-engagement)
+## TOC
+
+- [Services](#services)
 - [References](#references)
 - [Profiles](#profiles)
 - [Tech stack](#tech-stack)
+- [Engagements](#engagements)
 - [Contact](#contact)
 
 <br>
@@ -22,68 +26,54 @@ I develop e-commerce applications, web apps and SPAs, plugins and extensions for
 
 <br>
 
-## Quick facts
+## Services
 
-- 20+ years of software engineering experience
-- 70+ projects across 50+ industries and counting
-- Collaboration with agencies, SMEs, startups and larger organisations
-- Roles: frontend, backend, full-stack, interim team lead and project manager
-- Software training for corporate teams, including CMS use
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Service offers
+### Web Development
 
-I partner with clients across industries, preferably SMEs, funded or seed-stage startups, and founders. I can contribute as a greenfield developer, or integrate into an existing project and team.
+- E-commerce shops, web applications, websites and blogs
+- Plugins, extensions, tools and scripts
+- Responsive frontend and backend development
+- Testing, bug fixing and technical SEO
 
-### All needs
+</td>
+<td width="50%" valign="top">
 
-- AI integrations, including content processing and creation
-  - Custom RAG, MCP, prompt engineering and skills
-- Workflow automation
-- Custom web apps, e-commerce shops, blogs and websites
-- Mobile, responsive and fluid web design
-- Technical SEO and GEO integrations
-- Vibe coding workflows and quality improvements
-- Frontend and backend testing and bug fixing
+### AI & Automation
 
-### Growing ambitions
+- AI integrations for content processing and creation
+- Custom RAG, MCP, prompt engineering and skills
+- Workflow automation and process optimisation
+- Quality improvements for AI-assisted development
 
-- Back-office tooling, such as staff workflow and performance tools
-- Code quality, stability, tooling and automation with regulatory compliance in mind, including EU requirements
-- Refactoring legacy stacks and iteratively improving architecture
-- Requirements analysis and reverse engineering: defining what a feature should do
-- Frontend accessibility improvements
-- Workflow automation, AI integrations and process optimisation
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Consulting and training
+### Consulting & Quality
 
-- Consulting on requirements, solutions and application questions
-- Training on AI and software use, data processing and security, including CMS editing and personally identifiable information (PII)
+- Requirements analysis and solution consulting
+- Legacy code and architecture improvements
+- Web performance, accessibility and functionality reviews
+- Web application security reviews
+- Training on AI, software, data processing, security and CMS use
 
-### Audits and reports
+</td>
+<td width="50%" valign="top">
 
-- AI and software engineering consulting
-- Web performance analysis and review
-- Functionality and web issue audits
-- UI, UX and brand design reviews for digital and production media
-- Web application security reviews to raise the security baseline
+### Design, UI, UX
 
-### Arts and design
+- AI asset pipeline configuration and quality engineering
+- UI and UX design, wireframes and prototypes
+- Graphic design and illustration for web and print
 
-- AI asset pipelines, automation and prompting
-- UI and UX design: low-fidelity wireframes, prototypes and mock-ups
-- Graphic design and illustration for brand assets, web and print media
-
-## Terms of engagement
-
-- Hired per project or for a set timeframe
-- Freelance engagements
-- Embedded developer contracts
-- Agile, Kanban and Scrum team experience
-- Fixed-price greenfield deliverables
-- Fixed-price engagements for hiring periods of one month or longer
-- Flexible hourly rate agreements
-
-I work independently or with existing teams. I work fully remotely from international locations. Exceptions are possible for a suitable office arrangement where location flexibility is retained.
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -97,13 +87,13 @@ I work independently or with existing teams. I work fully remotely from internat
 
 #### Client and personal works
 
-| Links                                                                                                                                                                                                                                 | Code                                                                | Notable stack                                               | About                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| [CodePen](https://codepen.io/TheRemoteCoder)                                                                                                                                                                                          | –                                                                   | JS, TypeScript, Canvas                                      | Experiments, tech-demos, layouts in frontend stack |
-| [01](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=1), [02](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=2), [03](https://project-6-1.codeconutltd.com/?apiKey=452D4C6561726E&videoId=3) | –                                                                   | Bootstrap, Webpack; JS, HTML 5, CSS X, PHP 7, MySQL 8, Java | Video annotated learning - University students     |
-| [Market products store](https://project-1-0.codeconutltd.com)                                                                                                                                                                         | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | React, Recoil, Bootstrap; TS                                | Marketplace cart and product register              |
-| [Vector-Storm](https://vector-storm.vercel.app)                                                                                                                                                                                       | [GitHub](https://github.com/ChristianOellers/Vector-Storm)          | TypeScript, Canvas                                          | Abstract arcade shooter                            |
-| [Silent Space](https://silent-space.vercel.app)                                                                                                                                                                                       | [GitHub](https://github.com/ChristianOellers/Silent-Space)          | JavaScript, Canvas                                          | Architectural proof of concept                     |
+| Links                                                                                                                                                               | Code                                                                | Notable stack                                             | About                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------ |
+| [CodePen](https://codepen.io/TheRemoteCoder)                                                                                                                        | –                                                                   | JS, TypeScript, Canvas                                    | Experiments, tech demos and frontend layouts     |
+| [01](https://project-6-1.codeconutltd.com/?videoId=1), [02](https://project-6-1.codeconutltd.com/?videoId=2), [03](https://project-6-1.codeconutltd.com/?videoId=3) | –                                                                   | Bootstrap, Webpack; JS, HTML5, CSS3, PHP 7, MySQL 8, Java | Annotated video learning for university students |
+| [Market products store](https://project-1-0.codeconutltd.com)                                                                                                       | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | React, Recoil, Bootstrap; TS                              | Marketplace cart and product register            |
+| [Vector-Storm](https://vector-storm.vercel.app)                                                                                                                     | [GitHub](https://github.com/ChristianOellers/Vector-Storm)          | TypeScript, Canvas                                        | Abstract arcade shooter                          |
+| [Silent Space](https://silent-space.vercel.app)                                                                                                                     | [GitHub](https://github.com/ChristianOellers/Silent-Space)          | JavaScript, Canvas                                        | Architectural proof of concept                   |
 
 #### Public contributions
 
@@ -153,8 +143,8 @@ Main expertise and side projects:
 ![MySQL](https://img.shields.io/badge/MySQL-c34342?logo=mysql&labelColor=c34342&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-c34342?logo=php&labelColor=c34342&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SASS-c34342?logo=sass&labelColor=c34342&logoColor=white)
-![CSS X](https://img.shields.io/badge/CSS%203-c34342?logo=css3&labelColor=c34342&logoColor=white)
-![HTML 5](https://img.shields.io/badge/HTML%205-c34342?logo=html5&labelColor=c34342&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%203-c34342?logo=css3&labelColor=c34342&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%205-c34342?logo=html5&labelColor=c34342&logoColor=white)
 ![Typo3](https://img.shields.io/badge/Typo3-c34342?logo=typo3&labelColor=c34342&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESlint-c34342?logo=eslint&labelColor=c34342&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-c34342?logo=gnu%20bash&labelColor=c34342&logoColor=white)
@@ -191,10 +181,37 @@ Main expertise and side projects:
 
 ---
 
+<br>
+
+## Engagements
+
+- Hired per project or for a set timeframe
+- Freelance engagements
+- Embedded developer contracts
+- Flexible hourly rate agreements
+- Fixed-price new-build deliverables
+- Fixed-price engagements for hiring periods of one month or longer
+
+I work independently or with existing teams.
+Past experiences include Agile, Kanban and Scrum team environments.
+
+Engagements are preferably fully remote from international locations.
+Suitable office arrangements may be possible where location flexibility is retained.
+
+<br>
+
+---
+
+<br>
+
 ## Contact
 
-Let's get in touch and talk about your next project.
+Let's talk about your project and connect:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-343a40.svg?style=for-the-badge&colorA=343a40)](mailto:info@codeconutltd.com)
+<a href="https://www.linkedin.com/in/theremotecoder"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-343a40.svg?style=for-the-badge&colorA=343a40" alt="Email"></a>
+
+</div>
