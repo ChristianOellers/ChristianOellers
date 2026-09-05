@@ -67,10 +67,14 @@ Before finalizing texts:
 - [ ] No duplicate or placeholder content.
 - [ ] Legacy information or stacks removed, unless relevant and valuable.
 
-### Scripts
+## Scripts
 
-Run the formatter after edits.
-Spell check results must be either fixed or added to `cspell.json`.
+> Run if instructed by human only, otherwise ignore this section!
+
+Run the formatter after edits .
+Fix spell check results or added to `cspell.json`.
+
+From within running Docker container (otherwise see `.vscode` task).
 
 ```sh
 bun format
