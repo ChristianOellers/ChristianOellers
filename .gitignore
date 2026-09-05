@@ -1,10 +1,11 @@
-*.log
-npm-debug.log*
-pnpm-debug.log*
+# .vscode: Kept for demo purposes
 
-node_modules
-dist
-*.local
+# AI
+.agents
 
-.idea
+# Packages
+node_modules/
+
+# OS files
 .DS_Store
+Thumbs.db

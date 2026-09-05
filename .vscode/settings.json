@@ -1,34 +1,28 @@
 {
-  "editor.detectIndentation": true,
   "editor.formatOnPaste": false,
   "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "editor.detectIndentation": false,
   "editor.insertSpaces": false,
-  "editor.useTabStops": true,
+  "editor.useTabStops": false,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "npm.packageManager": "bun",
   "css.validate": false,
-  "less.validate": false,
-  "scss.validate": false,
   "json.format.enable": true,
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.codeActionsOnSave": {
-      "source.fixAll.stylelint": "explicit"
-    }
+  "search.exclude": {
+    "**/node_modules": true
   },
-  "[javascript]": {
-    "editor.defaultFormatter": "prettier.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
     }
   },
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features",
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
-  },
   "[markdown]": {
-    "editor.acceptSuggestionOnEnter": "off",
-    "editor.codeActionsOnSave": {
-      "source.fixAll.stylelint": "never"
-    }
+    "editor.acceptSuggestionOnEnter": "off"
   }
 }

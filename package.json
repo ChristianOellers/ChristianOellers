@@ -1,0 +1,13 @@
+{
+  "name": "github_personal_portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "format": "oxfmt .",
+    "lint:spell": "cspell ."
+  },
+  "devDependencies": {
+    "cspell": "10.0.1",
+    "oxfmt": "0.66.0"
+  }
+}
