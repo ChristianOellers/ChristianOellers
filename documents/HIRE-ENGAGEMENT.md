@@ -1,5 +1,19 @@
 # Engagement
 
+## What I do
+
+I focus on anything between e-commerce, custom web apps and back-office systems.
+From greenfield projects to extending an existing products shelf-life, I help with development,
+AI integration, automation, and ensuring quality remains high.
+
+<br>
+
+---
+
+<br>
+
+## Collaboration
+
 How I can support clients and teams:
 
 - Hired per project or for a set timeframe
@@ -81,5 +95,16 @@ This excludes any form or shape of basic LLM or 'summarizing' features in consum
 The limitation ensures we're always on the same page with expectations and status.
 
 > [AI statement](AI-STATEMENT.md)
+
+</details>
+
+<details>
+<summary><b>AI autonomy & agents</b></summary>
+<br>
+
+I work confidently with AI-assisted development, automation, and agentic workflows where it makes sense.
+I prioritise sound engineering, review, and human oversight over speed or autonomy alone.
+
+If you need a faster turnaround or full autonomy, another specialised provider may be a better fit.
 
 </details>
