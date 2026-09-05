@@ -1,6 +1,6 @@
 # Engagement
 
-I support clients and teams as an independent developer, working remotely or as part of an established delivery team.
+How I can support clients and teams:
 
 - Hired per project or for a set timeframe
 - Freelance engagements
@@ -9,50 +9,33 @@ I support clients and teams as an independent developer, working remotely or as 
 - Fixed-price new-build deliverables
 - Fixed-price engagements for hiring periods of one month or longer
 
-## Team or solo venture welcome
-
-I work independently or with existing teams.
-
-## Remote collaboration preferences
-
-Engagements are preferably fully remote from international locations.
-Suitable hybrid arrangements may be possible where location flexibility is retained.
-
-For a seamless and productive engagement, I typically look for the following:
-
-- A defined point of contact and clear decision-making/ autonomy responsibilities
-- Agreed working hours and reasonable time-zone overlap (e.g. 4 hours per day works well)
-- A shared task or PM system for priorities, decisions and status (no emails or chats for important tasks)
-- Regular check-ins or written updates at a frequency appropriate to the project (e.g. daily, weekly)
-- Protected focus time, with urgent work handled through an agreed channel
-- A clear scope, acceptance criteria and process for changing priorities
-
-## AI use and transparency
-
-No AI-to-AI automation, e.g. for task assignment, decision-making or internal communication: These lack clarity, responsibility and accountability. Even with best intents, it is easily leading to scope drift, miscommunication, delays and unwanted outcomes.
-
-> Codeconut Ltd. does not apply these kind of automations, and will not be responsible for any results or consequences of such requests.
-
-Any use of AI must be agreed upon and declared transparently and lawfully.
-
+<br>
 
 ---
 
+<br>
 
+## Remote collaboration
 
-For ongoing work, a stable monthly arrangement can provide predictable availability and meeting times. The setup can be reviewed and adjusted as the project develops.
+Engagements are preferably fully remote from international locations.
+Hybrid arrangements may be possible, where location flexibility is retained.
 
-I work from professional, reliable environments and use secure, privacy-aware working practices. Requirements for access, confidentiality, data handling and project tooling can be agreed before the engagement starts.
+**Promises**
 
-## Scope and fit
+- Work from a professional, reliable environment like commercial Coworking spaces – Not Instagrammable beach cafés.
+- Secure, privacy-aware working practices. I utilize hardware and software encryption and strong password management.
+- Clear communication and transparency about progress, blockers, and risks.
+- Skill-fit and honesty about what I can deliver, dare to do, or exceeds offerings.
 
-An initial conversation is used to clarify the objectives, constraints and expected responsibilities. I offer work that matches my capabilities and will say so early when specialist expertise, additional assurance or a different delivery partner is more appropriate.
+<br>
 
-I value transparent collaboration and responsible use of technology, including careful consideration of security, personal data, data storage and AI-generated outputs.
+---
 
-## Contact
+<br>
 
-To discuss a project, team requirement or potential engagement:
+## Get in touch
+
+Let us discuss your next project or engagement!
 
 <div align="center">
 
@@ -61,3 +44,42 @@ To discuss a project, team requirement or potential engagement:
 <a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-343a40.svg?style=for-the-badge&colorA=343a40" alt="Email"></a>
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+## Collaboration details
+
+<details>
+<summary><b>Seamless and productive engagement</b></summary>
+<br>
+To protect both our time and focus on our specific fields,
+I prefer a structured and consistent approach to collaboration. This includes:
+
+- Defined point of contact and clear decision-making responsibilities.
+- Shared task or PM system for priorities, decisions and status.
+  - Clear scope, acceptance criteria and process for changing priorities.
+- Regular check-ins or written updates at appropriate intervals (e.g. daily, weekly).
+  - Efficient communication and focus time – Urgent work handled through an agreed channel.
+- Agreed working hours and reasonable time-zone overlap (e.g. 4 hours per day works well).
+- Secure data exchange service (no emails/ chats with sensitive data).
+
+</details>
+
+<details>
+<summary><b>AI use and transparency</b></summary>
+<br>
+
+No important, sensitive or complex information must be delivered via emails, chats, calls, or any other unstructured communication.
+
+Exceptions can be made for specialised PM tools, already in use by the client, if there is a clear working process and agreement.
+This excludes any form or shape of basic LLM or 'summarizing' features in consumer grade software (like chat or email providers).
+
+The limitation ensures we're always on the same page with expectations and status.
+
+> [AI statement](AI-STATEMENT.md)
+
+</details>

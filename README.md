@@ -1,8 +1,20 @@
 # Christian Oellers
 
-Software developer for e-commerce, web applications and practical AI automation.
+Hi, I'm Christian!
 
-I help agencies, SMEs, startups and larger organisations build, improve and maintain digital products. My work focuses on stable software, clear processes and sustainable results.
+Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cyprus. 🇨🇾
+
+Professionally, I work with agencies, SMEs, startups and larger organisations to build, grow and maintain digital products.
+
+Personally, my nerdy heart beats for the combination of arts and game development.
+
+---
+
+I focus on anything between e-commerce, custom web apps and back-office systems.
+From greenfield projects to extending an existing products shelf-life,
+I help with development, AI integration, automation, and ensuring quality remains high.
+
+Capable to vibe code and live 'AI first'; though I prefer a responsible approach and human oversight.
 
 **Experience**
 
@@ -18,8 +30,8 @@ I help agencies, SMEs, startups and larger organisations build, improve and main
 - [References](#references)
 - [Profiles](#profiles)
 - [Tech stack](#tech-stack)
-- [Engagements](#engagements)
 - [Contact](#contact)
+- [Further Reads](#further-reads)
 
 <br>
 
@@ -184,27 +196,6 @@ Main expertise and side projects:
 
 <br>
 
-## Engagements
-
-- Hired per project or for a set timeframe
-- Freelance engagements
-- Embedded developer contracts
-- Flexible hourly rate agreements
-- Fixed-price new-build deliverables
-- Fixed-price engagements for hiring periods of one month or longer
-
-I work independently or with existing teams.
-Past experiences include Agile, Kanban and Scrum team environments.
-
-Engagements are preferably fully remote from international locations.
-Suitable office arrangements may be possible where location flexibility is retained.
-
-<br>
-
----
-
-<br>
-
 ## Contact
 
 Let's talk about your project and connect:
@@ -216,3 +207,14 @@ Let's talk about your project and connect:
 <a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-343a40.svg?style=for-the-badge&colorA=343a40" alt="Email"></a>
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+## Further Reads
+
+- [Engagements and hiring](documents/HIRE-ENGAGEMENT.md)
+- [AI use and transparency](documents/AI-STATEMENT.md)
