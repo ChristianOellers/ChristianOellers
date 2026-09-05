@@ -1,5 +1,7 @@
 # Christian Oellers
 
+![Codeconut Ltd.](teaser.svg)
+
 Hi, I'm Christian!
 
 Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cyprus. 🇨🇾
