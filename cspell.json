@@ -1,0 +1,25 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "language": "en",
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "flagWords": [],
+  "words": ["artstation", "behance", "dribbble", "mcp", "meraki", "shopware", "supabase", "symfony", "wireframes"],
+  "userWords": ["codeconut", "dach", "geo", "pii", "oellers", "seo", "sme"],
+  "ignoreWords": ["factfulness", "organisations"],
+  "ignorePaths": [".agents", ".claude", ".git", ".vscode", "node_modules", "node_modules/**"],
+  "enabledLanguageIds": ["css", "html", "json", "markdown", "plaintext", "svg"],
+  "ignoreRegExpList": ["markdownInlineCode"],
+  "patterns": [
+    {
+      "name": "markdownInlineCode",
+      "pattern": "/`[^`\\n]+`/gi"
+    }
+  ],
+  "import": [],
+  "numSuggestions": 4,
+  "minWordLength": 3,
+  "maxNumberOfProblems": 100,
+  "allowCompoundWords": false
+}

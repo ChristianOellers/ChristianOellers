@@ -1,10 +1,19 @@
 {
   "recommendations": [
-    "alefragnani.bookmarks",
-    "dbaeumer.vscode-eslint",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "donjayamanne.githistory",
     "editorconfig.editorconfig",
-    "eg2.vscode-npm-script",
-    "prettier.prettier-vscode",
-    "stylelint.vscode-stylelint"
+    "esbenp.prettier-vscode",
+    "HTMLHint.vscode-htmlhint",
+    "leizongmin.node-module-intellisense",
+    "Meezilla.json",
+    "mohd-akram.vscode-html-format",
+    "ms-azuretools.vscode-containers",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits"
   ]
 }

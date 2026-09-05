@@ -1,0 +1,32 @@
+{
+  "name": "Node.js",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "bun install",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/prettier:1": {},
+    "ghcr.io/shyim/devcontainers-features/bun:0": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "donjayamanne.githistory",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "HTMLHint.vscode-htmlhint",
+        "leizongmin.node-module-intellisense",
+        "Meezilla.json",
+        "mohd-akram.vscode-html-format",
+        "ms-azuretools.vscode-containers",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers",
+        "streetsidesoftware.code-spell-checker",
+        "vivaxy.vscode-conventional-commits"
+      ]
+    }
+  }
+}
