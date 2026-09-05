@@ -8,7 +8,8 @@ I help agencies, SMEs, startups and larger organisations build, improve and main
 
 - 20+ years of software engineering
 - 70+ projects across 50+ industries and counting
-- Roles: frontend, backend, full-stack, interim team lead and project manager
+- Roles: frontend, backend, full-stack, interim team lead/ PM
+- Agile, Kanban and Scrum environment experience with Sprints
 - Software training for corporate teams, including CMS use
 
 ## TOC
