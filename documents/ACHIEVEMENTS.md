@@ -4,6 +4,7 @@ Production stories – Highlights of problems I've solved.
 
 ## TOC
 
+- [Real Estate portal + AI asset pipeline](#real-estate-portal--ai-asset-pipeline)
 - [Shopware 6 build performance](#shopware-6-build-performance)
 - [Shopware 6 admin tooling](#shopware-6-admin-tooling)
 - [Test-scoring algorithm & TDD](#test-scoring-algorithm--tdd)
@@ -11,6 +12,29 @@ Production stories – Highlights of problems I've solved.
 - [OSS refactor - Large-scale, legacy architecture](#oss-refactor---large-scale-legacy-architecture)
 - [Magento 1.4 → 1.5 system + database migration](#magento-system--database-migration)
 - [Get in touch](#get-in-touch)
+
+<br>
+
+---
+
+<br>
+
+## Real Estate portal + AI asset pipeline
+
+Enabled a real estate agent with a local competitive edge. Simplify and automate customer acquisition, data collection, listing management for a small team. Custom software solution to unique problem no CMS/ Blog could solve in the given budget and time frame constraints.
+
+- Custom data and lead retrieval pipeline, content transformation, database interface.
+- Lovable + React foundation as rapid prototyping resulted in a production-grade micro-app, suited for small teams and data loads.
+- Safe, solid fundament by architectural guardrails and semi-automated testing. Advanced static code analysis, linting and AI agent reviews for code quality and refactoring; combining both deterministic and AI-assisted feedback.
+- No multi-service and infrastructure overhead to manage for clients.
+- Dockerized local development environment, guarding local environments both against packages and AI agent executions.
+- AI-workflows via skills/ prompts for data processing, content generation (e.g. blog markup), translations.
+- Multi-lingual, SEO/ GEO optimized, performance-optimized, accessible defaults.
+- Fluid/ responsive web-design with a micro branding/ CI guide, beyond AI defaults.
+- Established dev/ editing workflow to safeguard application stability against unpredictable AI manufacturing.
+- Low AI token cost due to AI-agnostic development approach.
+
+_Focus was on low-cost, efficient TTM – Less application scalability or advanced design/ content requirements. Given alternative budgets, timelines or other constraints, another technological approach could have been chosen instead. Application requirements expanded greatly after the initial implementation. Thanks to a minimal tech stack and isolated, exchangeable services, any future modifications are feasible._
 
 <br>
 
@@ -109,17 +133,23 @@ _Successfully delivered as a one-off migration; not offered as an ongoing servic
 
 <br>
 
-## E-Commerce customer support tooling
+## Telecom E-Commerce - Staff and support tooling
 
-Enabled Telesales staff to give customers realtime support about their orders and product questions.
-Industry: Telecommunications company, large e-commerce product comparison platform.
+Enabled administrative, telesales, marketing and development teams to gain realtime insights
+into a complex E-Commerce platform without abstraction layers or legacy tooling.
+Telesales and product teams could provide realtime support and verify product information and changes instantly.
 
-- Tooling integrated in the system allowed staff members to see hidden product details during calls:
-  Product and vendor IDs, specific attributes
-- 'Readable' footnotes highlighted and grouped most common customer questions and answers: Mostly about
+- Web-based tooling allowed staff members to see hidden product details during customer calls; enabling quick lookups
+- Contract footnotes for products highlighted common customer questions and answers: Prices, specifications, legal terms
+- Administrative tooling enabled developers to quickly test hidden pages, campaigns, special offers and white-label products
+- Integrated testing automation via scraping and form submission for critical checkout application paths,
+  - Speed up development, reduced regressions, gain clarity in complex, multi-step checkout flows per product type
+- Sanitation of raw legacy interface inputs ensured, product got displayed correctly even with malformed information
+- Incremental refactoring of legacy codebase to newer, architectures, per newly introduced features became feasible
+  - Practical CCD/ DRY/ SOLID, OOP principles – Without over-engineering or heavy abstractions (Zend Framework)
 
-
-_Prior solution was an abstracted database, that did not reflect what customers perceived on websites._
+_Prior to the solution, the team used a legacy database interface, that did not reflect what customers perceived on the website.
+Product tests consisted of manually searching the products in the real website, and filling out all forms by hand._
 
 <br>
 
