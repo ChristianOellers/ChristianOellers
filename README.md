@@ -116,21 +116,31 @@ Find out more: [Codeconut Ltd.](https://www.codeconutltd.com)
 
 ### Development
 
-#### Client and personal works
+#### Client works
 
 | Links                                                                                                                                                               | Code                                                                | Notable stack                                             | About                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------ |
-| [CodePen](https://codepen.io/TheRemoteCoder)                                                                                                                        | –                                                                   | JS, TypeScript, Canvas                                    | Experiments, tech demos and frontend layouts     |
 | [01](https://project-6-1.codeconutltd.com/?videoId=1), [02](https://project-6-1.codeconutltd.com/?videoId=2), [03](https://project-6-1.codeconutltd.com/?videoId=3) | –                                                                   | Bootstrap, Webpack; JS, HTML5, CSS3, PHP 7, MySQL 8, Java | Annotated video learning for university students |
 | [Market products store](https://project-1-0.codeconutltd.com)                                                                                                       | [GitHub](https://github.com/Codeconut-Ltd/GH-Market-Products-Store) | React, Recoil, Bootstrap; TS                              | Marketplace cart and product register            |
-| [Vector-Storm](https://vector-storm.vercel.app)                                                                                                                     | [GitHub](https://github.com/ChristianOellers/Vector-Storm)          | TypeScript, Canvas                                        | Abstract arcade shooter                          |
-| [Silent Space](https://silent-space.vercel.app)                                                                                                                     | [GitHub](https://github.com/ChristianOellers/Silent-Space)          | JavaScript, Canvas                                        | Architectural proof of concept                   |
+
+_Abstracted demonstrations, adapted to confidentiality._
+
+#### Personal works
+
+| Links                                                                                   | Code                                                                             | Notable stack       | About                                        |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------- | -------------------------------------------- |
+| [CodePen](https://codepen.io/TheRemoteCoder)                                            | –                                                                                | JS, TS, Canvas      | Experiments, tech demos and frontend layouts |
+| [Vector-Storm](https://vector-storm.vercel.app)                                         | [GitHub](https://github.com/ChristianOellers/Vector-Storm)                       | TS, Canvas          | Abstract arcade shooter                      |
+| [Silent Space](https://silent-space.vercel.app)                                         | [GitHub](https://github.com/ChristianOellers/Silent-Space)                       | JS, Canvas          | Architectural proof of concept               |
+| [Voice Checklist – Jump & Run](https://codeconut-gamified-voice-checklist.lovable.app/) | [GitHub](https://github.com/ChristianOellers/Jump-and-Run-Game--Voice-Checklist) | Lovable, Canvas, TS | AI tech stack exploration                    |
 
 #### Public contributions
 
 | Links                                                                                                                                                                              | Project                  | Notable stack                 | Challenges solved                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
 | [01](https://github.com/opencast/annotation-tool/pull/603), [02](https://github.com/opencast/annotation-tool/pull/604), [03](https://github.com/opencast/annotation-tool/pull/605) | Opencast Annotation tool | OAT, Backbone; JS, Java, Less | Merged 2 years diverging history. Bug fixes. Feature development (Annotation templates / Questionnaire). |
+
+_OpenSource projects._
 
 <br>
 
@@ -143,7 +153,7 @@ Published code, from snippets to full apps.
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development, Personal interests |
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd)       | Business projects, Collaborative OpenSource                  |
 | [TheRemoteCoder](https://github.com/TheRemoteCoder)      | Published sources, Technology archive, Playgrounds           |
-| [Gist](https://gist.github.com/ChristianOellers)        | Micro libraries, Code snippets, Guides + Tutorials           |
+| [Gist](https://gist.github.com/ChristianOellers)         | Micro libraries, Code snippets, Guides + Tutorials           |
 
 <br>
 
