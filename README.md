@@ -31,10 +31,10 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 ## TOC
 
 - [Services](#services)
-- [Achievements](#achievements)
 - [References](#references)
 - [Profiles](#profiles)
 - [Tech stack](#tech-stack)
+- [Achievements](#achievements)
 - [Contact](#contact)
 - [Further Reads](#further-reads)
 
@@ -106,16 +106,6 @@ What I'm happy to support your business with:
 </table>
 
 Find out more: [Codeconut Ltd.](https://www.codeconutltd.com)
-
-<br>
-
----
-
-<br>
-
-## Achievements
-
-...
 
 <br>
 
@@ -236,6 +226,27 @@ Main expertise and side projects:
 ![web3.js](https://img.shields.io/badge/web3.js-635242?logo=web3.js&labelColor=635242&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-635242?logo=webpack&labelColor=635242&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-635242?logo=wordpress&labelColor=635242&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## Achievements
+
+Unique challenges and production stories:
+
+<details>
+<summary><b>Production stories</b></summary>
+
+- Shopware 6 build performance increased => 90%: Average below 20 seconds, from 5-15 Minutes (!) for a single refresh. Culprit were unsuited hardware and I/O operations in any Docker env. Massive time saver for FE/ BE teams, increased productivity and removed the frustration of wasting time with forced waiting.
+- Refactoring of legacy architecture, large scale OSS app with 1+ year diverging history. Parallel refactoring required reverse engineering of low-level backend-features in Backbone and API requests. Complex manual merge flow. Proprietary stack (Java server, Backbone JS). Zero guidance, documentation, support or AI.
+- Migrated Magento EC 1.4 – 1.5, due to diverging EAC-databases between test and prod environments. No guidance, support, AI. Handcrafted workflow, SQL and scripts allowed a smooth transition. Live shop with 3000+ products, 1000+ customers. Zero bugs, no downtime (besides maintenance).
+- Created a CMS template for a whole eco-system, to apply for any new client project. Brought down a 2+ day setup process to a repeatable, simplified ~4 hour installation process. Multi-lingual, pre-configured extensions, custom admin and frontend theme: Teams could focus in a single day on implementing content and designs, first showcase to client after 2-3 days, instead of delaying it for 1+ weeks.
+- Algorithm dev for text recognition to score student tests and arbitrary user input. Zero failure rates acceptable, any shape of input imaginable. BDD/ TDD driven came as solution.
+
+</details>
 
 <br>
 
