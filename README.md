@@ -262,4 +262,13 @@ Let's talk about your project and connect:
 <br>
 <br>
 
+<div align="center">
+
 _“Good ideas are always crazy until they’re not.” – Larry Page_
+
+</div>
+
+<br>
+<br>
+
+$${\color{gray}Written\space by\space human\space –\space Formatted\space by\space AI}$$

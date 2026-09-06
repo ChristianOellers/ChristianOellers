@@ -4,13 +4,13 @@ Production stories – Highlights of problems I've solved.
 
 ## TOC
 
-- [Real Estate portal + AI asset pipeline](#real-estate-portal--ai-asset-pipeline)
-- [Shopware 6 build performance](#shopware-6-build-performance)
-- [Shopware 6 admin tooling](#shopware-6-admin-tooling)
-- [Test-scoring algorithm & TDD](#test-scoring-algorithm--tdd)
-- [CMS template ecosystem - Instant client setup](#cms-template-ecosystem---instant-client-setup)
-- [OSS refactor - Large-scale, legacy architecture](#oss-refactor---large-scale-legacy-architecture)
-- [Magento 1.4 → 1.5 system + database migration](#magento-system--database-migration)
+- [Real Estate portal & AI asset pipeline](#real-estate-portal--ai-asset-pipeline)
+- [Shopware 6 – Build performance](#shopware-6--build-performance)
+- [Shopware 6 – Admin tooling](#shopware-6--admin-tooling)
+- [Tests – Scoring algorithm & TDD](#tests--scoring-algorithm--tdd)
+- [CMS template ecosystem – Instant client setup](#cms-template-ecosystem--instant-client-setup)
+- [OSS refactor – Large-scale legacy architecture](#oss-refactor--large-scale-legacy-architecture)
+- [Magento system & Database migration](#magento-system--database-migration)
 - [Get in touch](#get-in-touch)
 
 <br>
@@ -19,22 +19,22 @@ Production stories – Highlights of problems I've solved.
 
 <br>
 
-## Real Estate portal + AI asset pipeline
+## Real Estate portal & AI asset pipeline
 
-Enabled a real estate agent with a local competitive edge. Simplify and automate customer acquisition, data collection, listing management for a small team. Custom software solution to unique problem no CMS/ Blog could solve in the given budget and time frame constraints.
+Enabled a real estate agent to gain a local competitive edge by simplifying and automating customer acquisition, data collection and listing management for a small team. This custom software solution addressed a problem that no CMS or blog could solve within the given budget and timeframe.
 
 - Custom data and lead retrieval pipeline, content transformation, database interface.
-- Lovable + React foundation as rapid prototyping resulted in a production-grade micro-app, suited for small teams and data loads.
-- Safe, solid fundament by architectural guardrails and semi-automated testing. Advanced static code analysis, linting and AI agent reviews for code quality and refactoring; combining both deterministic and AI-assisted feedback.
+- A Lovable and React foundation used for rapid prototyping resulted in a production-grade micro-app suited to small teams and their data loads.
+- A safe, solid foundation provided by architectural guardrails and semi-automated testing. Advanced static code analysis, linting and AI-agent reviews supported code quality and refactoring, combining deterministic and AI-assisted feedback.
 - No multi-service and infrastructure overhead to manage for clients.
-- Dockerized local development environment, guarding local environments both against packages and AI agent executions.
-- AI-workflows via skills/ prompts for data processing, content generation (e.g. blog markup), translations.
-- Multi-lingual, SEO/ GEO optimized, performance-optimized, accessible defaults.
-- Fluid/ responsive web-design with a micro branding/ CI guide, beyond AI defaults.
-- Established dev/ editing workflow to safeguard application stability against unpredictable AI manufacturing.
+- A Dockerised local development environment protected local environments from both packages and AI-agent executions.
+- AI workflows using skills and prompts for data processing, content generation (e.g. blog markup) and translation.
+- Multilingual, SEO/GEO-optimised, performance-optimised and accessible defaults.
+- Fluid, responsive web design with a micro-branding/CI guide, beyond standard AI defaults.
+- An established development/editing workflow safeguarded application stability against unpredictable AI-generated changes.
 - Low AI token cost due to AI-agnostic development approach.
 
-_Focus was on low-cost, efficient TTM – Less application scalability or advanced design/ content requirements. Given alternative budgets, timelines or other constraints, another technological approach could have been chosen instead. Application requirements expanded greatly after the initial implementation. Thanks to a minimal tech stack and isolated, exchangeable services, any future modifications are feasible._
+_The focus was on low-cost, efficient time to market, rather than application scalability or advanced design/content requirements. Given different budgets, timelines or other constraints, another technological approach could have been chosen. Application requirements expanded greatly after the initial implementation. Thanks to a minimal tech stack and isolated, exchangeable services, future modifications remain feasible._
 
 <br>
 
@@ -42,7 +42,7 @@ _Focus was on low-cost, efficient TTM – Less application scalability or advan
 
 <br>
 
-## Shopware 6 build performance
+## Shopware 6 – Build performance
 
 Eliminated major frontend/backend blocker and saved hours per week per developer.
 
@@ -58,12 +58,13 @@ _Imagine a single build taking 5+ minutes – Just to refresh the page view and
 
 <br>
 
-## Shopware 6 admin tooling
+## Shopware 6 – Admin tooling
 
 Enabled building functional frontend/ admin blocks and elements in under an hour.
 
 - Reduced bug fixes and upgrade costs through minimal boilerplate and a single source of truth.
 - Refactored default component-generation architecture to remove boilerplate and error-prone naming conventions.
+- Established a consistent, branded display for agency purposes. Ease of use, stable UI, genericized and reusable across projects.
 
 <br>
 
@@ -71,7 +72,7 @@ Enabled building functional frontend/ admin blocks and elements in under an hour
 
 <br>
 
-## Test-scoring algorithm & TDD
+## Tests – Scoring algorithm & TDD
 
 Built a TDD-driven text-recognition algorithm to score arbitrary student input.
 
@@ -87,7 +88,7 @@ _Example: Use of brackets and special characters in predefined terms. Match boun
 
 <br>
 
-## CMS template ecosystem - Instant client setup
+## CMS template ecosystem – Instant client setup
 
 Compressed a 2+ day setup into a repeatable ~4-hour install.
 Enabled teams to ship first client demos in 2–3 days instead of 1+ weeks.
@@ -101,7 +102,7 @@ Enabled teams to ship first client demos in 2–3 days instead of 1+ weeks.
 
 <br>
 
-## OSS refactor - Large-scale, legacy architecture
+## OSS refactor – Large-scale legacy architecture
 
 Revived and fixed stale project after two prior consolidation attempts halted.
 
@@ -117,7 +118,7 @@ Revived and fixed stale project after two prior consolidation attempts halted.
 
 <br>
 
-## Magento system + database migration
+## Magento system & Database migration
 
 Diverging test/ production databases, plugins and code from Magento 1.4 → 1.5.
 
@@ -133,23 +134,21 @@ _Successfully delivered as a one-off migration; not offered as an ongoing servic
 
 <br>
 
-## Telecom E-Commerce - Staff and support tooling
+## Telecom e-commerce – Staff & Support tooling
 
-Enabled administrative, telesales, marketing and development teams to gain realtime insights
-into a complex E-Commerce platform without abstraction layers or legacy tooling.
-Telesales and product teams could provide realtime support and verify product information and changes instantly.
+Enabled administrative, telesales, marketing and development teams to gain real-time insight
+into a complex e-commerce platform without abstraction layers or legacy tooling.
+Telesales and product teams could provide real-time support and verify product information and changes instantly.
 
-- Web-based tooling allowed staff members to see hidden product details during customer calls; enabling quick lookups
-- Contract footnotes for products highlighted common customer questions and answers: Prices, specifications, legal terms
-- Administrative tooling enabled developers to quickly test hidden pages, campaigns, special offers and white-label products
-- Integrated testing automation via scraping and form submission for critical checkout application paths,
-  - Speed up development, reduced regressions, gain clarity in complex, multi-step checkout flows per product type
-- Sanitation of raw legacy interface inputs ensured, product got displayed correctly even with malformed information
-- Incremental refactoring of legacy codebase to newer, architectures, per newly introduced features became feasible
-  - Practical CCD/ DRY/ SOLID, OOP principles – Without over-engineering or heavy abstractions (Zend Framework)
+- Web-based tooling allowed staff members to see hidden product details during customer calls, enabling quick lookups.
+- Contract footnotes for products highlighted common customer questions and answers: prices, specifications and legal terms.
+- Administrative tooling enabled developers to quickly test hidden pages, campaigns, special offers and white-label products.
+- Integrated testing automation via scraping and form submission covered critical checkout application paths. This sped up development, reduced regressions and brought clarity to complex, multi-step checkout flows for each product type.
+- Sanitisation of raw legacy interface inputs ensured that products were displayed correctly, even with malformed information.
+- Incremental refactoring of the legacy codebase towards newer architectures became feasible as new features were introduced.
+  - Applied practical CCD, DRY, SOLID and OOP principles without over-engineering or heavy abstractions (Zend Framework).
 
-_Prior to the solution, the team used a legacy database interface, that did not reflect what customers perceived on the website.
-Product tests consisted of manually searching the products in the real website, and filling out all forms by hand._
+_Prior to the solution, the team used a legacy database interface that did not reflect what customers saw on the website. Product tests consisted of manually searching for products on the live website and completing all forms by hand._
 
 <br>
 
