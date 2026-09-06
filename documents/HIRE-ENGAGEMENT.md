@@ -36,10 +36,10 @@ Hybrid arrangements may be possible, where location flexibility is retained.
 
 **Promises**
 
-- Work from a professional, reliable environment like commercial Coworking spaces – Not Instagrammable beach cafés.
+- Work from a professional, reliable environment like commercial coworking spaces – not 'Instagrammable' beach cafés.
 - Secure, privacy-aware working practices. I utilize hardware and software encryption and strong password management.
 - Clear communication and transparency about progress, blockers, and risks.
-- Skill-fit and honesty about what I can deliver, dare to do, or exceeds offerings.
+- Skill-fit and honesty about what I can deliver, dare to do, or exceed offerings.
 
 <br>
 
@@ -49,13 +49,14 @@ Hybrid arrangements may be possible, where location flexibility is retained.
 
 ## Get in touch
 
-Let us discuss your next project or engagement!
+Let us discuss your next project or collaboration:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/theremotecoder"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-343a40.svg?style=for-the-badge&colorA=343a40" alt="Email"></a>
+[![Website](https://img.shields.io/badge/Web-Codeconut_Ltd.-736c66?style=for-the-badge&logo=astro&logoColor=white)](https://www.codeconutltd.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-736c66.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-736c66.svg?style=for-the-badge)](mailto:contact@codeconutltd.com)
+[![Cal.com](https://img.shields.io/badge/Meeting-Book-736c66.svg?style=for-the-badge)](https://cal.com/codeconut/30min?user=codeconut)
 
 </div>
 

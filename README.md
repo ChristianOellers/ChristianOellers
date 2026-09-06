@@ -12,7 +12,7 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 **Experience**
 
 - 20+ years of software engineering
-- 70+ projects across 50+ industries and counting
+- 70+ projects across 45+ industries and counting
 - Roles: frontend, backend, full-stack, interim team lead/ PM
 - Agile, Kanban and Scrum environment experience with Sprints
 - Software training for corporate teams, including CMS use
@@ -21,17 +21,17 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 
 <div align="center">
 
-<a href="https://www.codeconutltd.com"><img src="https://img.shields.io/badge/Web-codeconutltd.com-736c66?style=for-the-badge&logo=astro&logoColor=white" alt="Website" rel="noopener noreferrer"></a>
-
-<a href="https://www.linkedin.com/in/theremotecoder"><img src="https://img.shields.io/badge/linkedin-Connect-736c66.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" rel="noopener noreferrer"></a>
-
-<a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-Say_Hello-736c66.svg?style=for-the-badge" alt="Email" rel="noopener noreferrer"></a>
+[![Website](https://img.shields.io/badge/Web-Codeconut_Ltd.-736c66?style=for-the-badge&logo=astro&logoColor=white)](https://www.codeconutltd.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-736c66.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-736c66.svg?style=for-the-badge)](mailto:contact@codeconutltd.com)
+[![Cal.com](https://img.shields.io/badge/Meeting-Book-736c66.svg?style=for-the-badge)](https://cal.com/codeconut/30min?user=codeconut)
 
 </div>
 
 ## TOC
 
 - [Services](#services)
+- [Achievements](#achievements)
 - [References](#references)
 - [Profiles](#profiles)
 - [Tech stack](#tech-stack)
@@ -46,6 +46,8 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 
 ## Services
 
+What I'm happy to support your business with:
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -57,6 +59,8 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - Responsive frontend and backend development
 - Testing, bug fixing and technical SEO
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -66,6 +70,9 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - Custom RAG, MCP, prompt engineering and skills
 - Workflow automation and process optimisation
 - Quality improvements for AI-assisted development
+- Unstuck Vibe-Coding (Emergency fixes, debugging, guidance)
+
+<br>
 
 </td>
 </tr>
@@ -77,8 +84,10 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - Requirements analysis and solution consulting
 - Legacy code and architecture improvements
 - Web performance, accessibility and functionality reviews
-- Web application security reviews
+- Web application security reviews _(foundational)_
 - Training on AI, software, data processing, security and CMS use
+
+<br>
 
 </td>
 <td width="50%" valign="top">
@@ -88,10 +97,25 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - AI asset pipeline configuration and quality engineering
 - UI and UX design, wireframes and prototypes
 - Graphic design and illustration for web and print
+- Human sketch => Refined, custom AI assets
+
+<br>
 
 </td>
 </tr>
 </table>
+
+Find out more: [Codeconut Ltd.](https://www.codeconutltd.com)
+
+<br>
+
+---
+
+<br>
+
+## Achievements
+
+...
 
 <br>
 
@@ -132,6 +156,12 @@ Published code, from snippets to full apps.
 | [TheRemoteCoder](https://github.com/TheRemoteCoder)      | Published sources, Technology archive, Playgrounds           |
 | [Gists](https://gist.github.com/ChristianOellers)        | Micro libraries, Code snippets, Guides + Tutorials           |
 
+<br>
+
+---
+
+<br>
+
 ## Profiles
 
 | Website                                                                  | Content                                              |
@@ -141,11 +171,11 @@ Published code, from snippets to full apps.
 | [Behance](https://www.behance.net/DrawfulMind)                           | Brand Identity and logo design                       |
 | [Dribbble](https://www.dribbble.com/DrawfulMind)                         | UI, UX, Web Design, Concepts                         |
 
-⭐ ~ 2026/09: Coming soon! AI & Vibe coded explorations ~ ⭐
-
 <br>
 
 ---
+
+<br>
 
 ## Tech stack
 
@@ -219,11 +249,10 @@ Let's talk about your project and connect:
 
 <div align="center">
 
-<a href="https://www.codeconutltd.com"><img src="https://img.shields.io/badge/Web-codeconutltd.com-736c66?style=for-the-badge&logo=astro&logoColor=white" alt="Website" rel="noopener noreferrer"></a>
-
-<a href="https://www.linkedin.com/in/theremotecoder"><img src="https://img.shields.io/badge/linkedin-Connect-736c66.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" rel="noopener noreferrer"></a>
-
-<a href="mailto:contact@codeconutltd.com"><img src="https://img.shields.io/badge/Email-Say_Hello-736c66.svg?style=for-the-badge" alt="Email" rel="noopener noreferrer"></a>
+[![Website](https://img.shields.io/badge/Web-Codeconut_Ltd.-736c66?style=for-the-badge&logo=astro&logoColor=white)](https://www.codeconutltd.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-736c66.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theremotecoder)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-736c66.svg?style=for-the-badge)](mailto:contact@codeconutltd.com)
+[![Cal.com](https://img.shields.io/badge/Meeting-Book-736c66.svg?style=for-the-badge)](https://cal.com/codeconut/30min?user=codeconut)
 
 </div>
 
@@ -237,3 +266,9 @@ Let's talk about your project and connect:
 
 - [Engagements and hiring](documents/HIRE-ENGAGEMENT.md)
 - [AI use and transparency](documents/AI-STATEMENT.md)
+
+<br>
+<br>
+<br>
+
+_“Good ideas are always crazy until they’re not.” – Larry Page_
