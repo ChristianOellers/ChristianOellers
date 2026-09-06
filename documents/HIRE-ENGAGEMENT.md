@@ -109,7 +109,7 @@ The limitation ensures we're always on the same page with expectations and statu
 <br>
 
 I work confidently with AI-assisted development, automation, and agentic workflows where it makes sense.
-I prioritize sound engineering, review, and human oversight over speed or autonomy alone.
+I prioritise sound engineering, review, and human oversight over speed or autonomy alone.
 
 If you need a faster turnaround or full autonomy, another specialized provider may be a better fit.
 

@@ -75,7 +75,7 @@ I'd apply these for commercial work and projects – given there are no existing
 Many of these topics are simple and cost-efficient to mitigate, and can provide benefits from day one.
 Given, the business priorities give space to quality engineering, and teams have a common standard to work towards.
 
-I've often seen this as a missed opportunity, where application quality and security receive limited attention, even in larger organizations.
+I've often seen this as a missed opportunity, where application quality and security receive limited attention, even in larger organisations.
 In the beginning, the impact can be difficult to measure.
 
 As software grows, however, more issues can accumulate. Without shared practices and standards, the teams' focus shifts to firefighting mode instead of innovation.

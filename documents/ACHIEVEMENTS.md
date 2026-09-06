@@ -27,9 +27,9 @@ Enabled a real estate agent to gain a local competitive edge by simplifying and 
 - A Lovable and React foundation used for rapid prototyping resulted in a production-grade micro-app suited to small teams and their data loads.
 - A safe, solid foundation provided by architectural guardrails and semi-automated testing. Advanced static code analysis, linting, and AI-agent reviews supported code quality and refactoring, combining deterministic and AI-assisted feedback.
 - No multi-service and infrastructure overhead to manage for clients.
-- A Dockerized local development environment protected local environments from both packages and AI-agent executions.
+- A Dockerised local development environment protected local environments from both packages and AI-agent executions.
 - AI workflows using skills and prompts for data processing, content generation (e.g. blog markup), and translation.
-- Multilingual, SEO/GEO-optimized, performance-optimized, and accessible defaults.
+- Multilingual, SEO/GEO-optimised, performance-optimised, and accessible defaults.
 - Fluid, responsive web design with a micro-branding/CI guide, beyond standard AI defaults.
 - An established development/editing workflow safeguarded application stability against unpredictable AI-generated changes.
 - Low AI token cost due to AI-agnostic development approach.
@@ -64,7 +64,7 @@ Enabled building functional frontend/ admin blocks and elements in under an hour
 
 - Reduced bug fixes and upgrade costs through minimal boilerplate and a single source of truth.
 - Refactored default component-generation architecture to remove boilerplate and error-prone naming conventions.
-- Established a consistent, branded display for agency purposes. Ease of use, stable UI, and genericization and reusability across projects.
+- Established a consistent, branded display for agency purposes. Ease of use, stable UI, and genericisation and reusability across projects.
 
 <br>
 
@@ -144,7 +144,7 @@ Telesales and product teams could provide real-time support and verify product i
 - Contract footnotes for products highlighted common customer questions and answers: prices, specifications, and legal terms.
 - Administrative tooling enabled developers to quickly test hidden pages, campaigns, special offers, and white-label products.
 - Integrated testing automation via scraping and form submission covered critical checkout application paths. This sped up development, reduced regressions, and brought clarity to complex, multi-step checkout flows for each product type.
-- Sanitization of raw legacy interface inputs ensured that products were displayed correctly, even with malformed information.
+- Sanitisation of raw legacy interface inputs ensured that products were displayed correctly, even with malformed information.
 - Incremental refactoring of the legacy codebase towards newer architectures became feasible as new features were introduced.
   - Applied practical CCD, DRY, SOLID, and OOP principles without over-engineering or heavy abstractions (Zend Framework).
 
