@@ -143,7 +143,7 @@ Published code, from snippets to full apps.
 | [Christian Oellers](https://github.com/ChristianOellers) | Technology experiments, Game development, Personal interests |
 | [Codeconut Ltd.](https://github.com/Codeconut-Ltd)       | Business projects, Collaborative OpenSource                  |
 | [TheRemoteCoder](https://github.com/TheRemoteCoder)      | Published sources, Technology archive, Playgrounds           |
-| [Gists](https://gist.github.com/ChristianOellers)        | Micro libraries, Code snippets, Guides + Tutorials           |
+| [Gist](https://gist.github.com/ChristianOellers)        | Micro libraries, Code snippets, Guides + Tutorials           |
 
 <br>
 

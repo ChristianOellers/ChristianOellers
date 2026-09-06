@@ -24,7 +24,7 @@ I'd apply these for commercial work and projects – given there are no existing
 3. Longevity vs. realism: Build for the future, but not forever. Be realistic about software lifecycles, dependencies, and maintenance costs.
    - Don't build the perfect system; have it working now; expand and refactor later.
 4. Critical thinking and oversight: Don't assume and blindly believe; test and prove.
-   - Combine deterministic and probabilistic approaches. Apply human judgment and skill.
+   - Combine deterministic and probabilistic approaches. Apply human judgement and skill.
 5. Compatibility with the latest devices (unless there are specific needs):
    - Build for the ~98th percentile. Check if the remainder truly matters and what impact optimizations have.
    - Focus on the rest, when it's measurable. Consider the cost of development, and maintenance vs. a potentially beneficial CR.

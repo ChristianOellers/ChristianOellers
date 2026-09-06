@@ -82,7 +82,7 @@ Built a TDD-driven text-recognition algorithm to score arbitrary student input.
 - The abstract, proprietary syntax required posed a challenge for students and evaluations alike.
 - Deterministic, test-driven development and validation - Zero AI/ LLM.
 
-_Example: Use of brackets and special characters in predefined terms. Match boundaries, typos, missing white spaces, and deviating syntax choices. The goal is to grade in students' favor and not have them look for a single missing character._
+_Example: Use of brackets and special characters in predefined terms. Match boundaries, typos, missing white spaces, and deviating syntax choices. The goal is to grade in students' favour and not have them look for a single missing character._
 
 <br>
 

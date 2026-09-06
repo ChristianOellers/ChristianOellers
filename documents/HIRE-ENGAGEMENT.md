@@ -94,7 +94,9 @@ I value structured and consistent approaches:
 <summary><b>AI use and transparency</b></summary>
 <br>
 
-Important, sensitive, or complex information should not be delivered via email, chats, calls, or any other unstructured communication. Exceptions: Specialized PM tools already in use, if there is a clear process.
+Important, sensitive, or complex information should not be delivered via
+email, chats, calls, or any other unstructured communication.
+Exceptions: Specialized PM tools already in use, if there is a clear process.
 
 This ensures, that we're on the same page about a project and its status.
 

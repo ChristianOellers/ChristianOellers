@@ -1,6 +1,7 @@
 # AI use and transparency
 
-AI use is welcome when its use is transparent, agreed upon by both sides, and appropriately supervised.
+AI use is welcome when its use is transparent,
+agreed upon by both sides, and appropriately supervised.
 
 - Responsibility for decisions must remain with a human.
 - Every form of generative content must be clearly stated as such.
@@ -13,7 +14,9 @@ AI use is welcome when its use is transparent, agreed upon by both sides, and ap
 
 ## Statement of approach
 
-The client is responsible for defining, reviewing, and approving any requirements and deliverables. This includes material supplied by the client or by the client’s employees, contractors, advisers, or automated systems. The client must ensure accurate, complete, and lawful material is supplied.
+The client is responsible for defining, reviewing, and approving any requirements and deliverables.
+This includes material supplied by the client or by the client’s employees, contractors, advisers, or automated systems.
+The client must ensure accurate, complete, and lawful material is supplied.
 
 _1. CODECONUT will use reasonable professional care in reviewing and delivering agreed work. No independent verification of the client’s business decisions, source material, or instructions is performed._
 

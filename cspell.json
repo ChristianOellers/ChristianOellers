@@ -9,51 +9,27 @@
     "airtable",
     "artstation",
     "behance",
+    "coworking",
     "dockerised",
     "dribbble",
     "eac",
+    "genericisation",
     "linters",
+    "llm",
     "magento",
     "mcp",
     "meraki",
+    "oop",
     "shopware",
     "supabase",
     "symfony",
     "wireframes"
   ],
-  "userWords": [
-    "codeconut",
-    "dach",
-    "geo",
-    "instagrammable",
-    "pii",
-    "oellers",
-    "seo",
-    "sme"
-  ],
-  "ignoreWords": [
-    "factfulness",
-    "organisations"
-  ],
-  "ignorePaths": [
-    ".agents",
-    ".claude",
-    ".git",
-    ".vscode",
-    "node_modules",
-    "node_modules/**"
-  ],
-  "enabledLanguageIds": [
-    "css",
-    "html",
-    "json",
-    "markdown",
-    "plaintext",
-    "svg"
-  ],
-  "ignoreRegExpList": [
-    "markdownInlineCode"
-  ],
+  "userWords": ["codeconut", "dach", "geo", "instagrammable", "pii", "oellers", "seo", "sme"],
+  "ignoreWords": ["factfulness", "organisations"],
+  "ignorePaths": [".agents", ".claude", ".git", ".vscode", "node_modules", "node_modules/**", "*.svg"],
+  "enabledLanguageIds": ["css", "html", "json", "markdown", "plaintext", "svg"],
+  "ignoreRegExpList": ["markdownInlineCode"],
   "patterns": [
     {
       "name": "markdownInlineCode",
