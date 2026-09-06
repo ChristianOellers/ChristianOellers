@@ -4,9 +4,9 @@
 
 Hi, I'm Christian!
 
-Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cyprus. 🇨🇾
+Founder of and Full-Stack Developer at Codeconut Ltd., founded in 2019 in sunny Cyprus. 🇨🇾
 
-- Professionally, I work with agencies, SMEs, startups and larger organisations to build, grow and maintain digital products.
+- Professionally, I work with agencies, SMEs, startups, and larger organizations to build, grow, and maintain digital products.
 - Personally, my nerdy heart beats for game development, traditional arts, and piano improvisation.
 
 **Experience**
@@ -14,7 +14,7 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - 20+ years of software engineering
 - 70+ projects across 45+ industries and counting
 - Roles: frontend, backend, full-stack, interim team lead/ PM
-- Agile, Kanban and Scrum environment experience with Sprints
+- Agile, Kanban, and Scrum environment experience with Sprints
 - Software training for corporate teams, including CMS use
 
 <br>
@@ -53,10 +53,10 @@ What I'm happy to support your business with:
 
 ### Web Development
 
-- E-commerce shops, web applications, websites and blogs
-- Plugins, extensions, tools and scripts
+- E-commerce shops, web applications, websites, and blogs
+- Plugins, extensions, tools, and scripts
 - Responsive frontend and backend development
-- Testing, bug fixing and technical SEO
+- Testing, bug fixing, and technical SEO
 
 <br>
 
@@ -66,7 +66,7 @@ What I'm happy to support your business with:
 ### AI & Automation
 
 - AI integrations for content processing and creation
-- Custom RAG, MCP, prompt engineering and skills
+- Custom RAG, MCP, prompt engineering, and skills
 - Workflow automation and process optimisation
 - Quality improvements for AI-assisted development
 - Unstuck Vibe-Coding (Emergency fixes, debugging, guidance)
@@ -82,9 +82,9 @@ What I'm happy to support your business with:
 
 - Requirements analysis and solution consulting
 - Legacy code and architecture improvements
-- Web performance, accessibility and functionality reviews
+- Web performance, accessibility, and functionality reviews
 - Web application security reviews _(foundational)_
-- Training on AI, software, data processing, security and CMS use
+- Training on AI, software, data processing, security, and CMS use
 
 <br>
 
@@ -267,7 +267,7 @@ Let's talk about your project and connect:
 ## Further Reads
 
 - [Achievements](documents/ACHIEVEMENTS.md)
-- [How I work](documents/HOW-I-WORK.md)
+- [Work focus](documents/WORK-FOCUS.md)
 - [Engagements and hiring](documents/HIRE-ENGAGEMENT.md)
 - [AI use and transparency](documents/AI-STATEMENT.md)
 
@@ -284,8 +284,3 @@ Let's talk about your project and connect:
 _“Good ideas are always crazy until they’re not.” – Larry Page_
 
 </div>
-
-<br>
-<br>
-
-$${\color{gray}Written\space by\space human\space –\space Formatted\space by\space AI}$$

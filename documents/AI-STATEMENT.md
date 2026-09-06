@@ -1,7 +1,5 @@
 # AI use and transparency
 
-**For projects and agreements that involve AI:**
-
 AI use is welcome when its use is transparent, agreed upon by both sides, and appropriately supervised.
 
 - Responsibility for decisions must remain with a human.
