@@ -34,7 +34,6 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded 2019 in sunny Cy
 - [References](#references)
 - [Profiles](#profiles)
 - [Tech stack](#tech-stack)
-- [Achievements](#achievements)
 - [Contact](#contact)
 - [Further Reads](#further-reads)
 
@@ -233,25 +232,6 @@ Main expertise and side projects:
 
 <br>
 
-## Achievements
-
-<details>
-<summary><b>Production stories: Highlights</b></summary>
-
-- **Shopware 6 build performance**: Reduced build time from under ~5–15 minutes to ~20–60 seconds by circumventing I/O bottlenecks in Docker ENVs. Eliminated major frontend/backend blocker and saved hours per week per developer.
-- **Test-scoring algorithm**: Built a TDD-driven text-recognition algorithm to score arbitrary student input with zero acceptable failure rate, handling highly variable input shapes reliably.
-- **CMS template ecosystem**: Compressed a 2+ day setup into a repeatable ~4-hour install. Multi-lingual, pre-configured extensions, custom admin/frontend theme enabled teams to ship first client demos in 2–3 days instead of 1+ weeks.
-- **Large-scale OSS refactor**: Merged 1+ year of diverging code in a proprietary Java/Backbone stack, after two prior consolidation attempts. Parallel refactoring across deviating stack versions posed a challenge. Reverse-engineered low-level backend features, UI requirements and API calls. Designed and executed a complex manual merge strategy. No support, docs or AI.
-- **Magento 1.4 → 1.5 migration**: Hand-crafted SQL/scripts to reconcile diverging test/prod EAC databases. Migrated a live shop with 3,000+ products and 1,000+ customers with zero bugs and no unplanned downtime.
-
-</details>
-
-<br>
-
----
-
-<br>
-
 ## Contact
 
 Let's talk about your project and connect:
@@ -273,6 +253,8 @@ Let's talk about your project and connect:
 
 ## Further Reads
 
+- [Achievements](documents/ACHIEVEMENTS.md)
+- [How I work](documents/HOW-I-WORK.md)
 - [Engagements and hiring](documents/HIRE-ENGAGEMENT.md)
 - [AI use and transparency](documents/AI-STATEMENT.md)
 
