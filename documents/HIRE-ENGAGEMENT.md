@@ -73,11 +73,12 @@ Let us discuss your next project or collaboration:
 
 ## Workflows
 
+Principles for an efficient and responsible collaboration.
+
 <details>
 <summary><b>Seamless and productive engagement</b></summary>
 <br>
-To protect both our time and focus on our specific fields,
-I prefer a structured and consistent approach to collaboration. This includes:
+I value structured and consistent approaches:
 
 - Defined a point of contact and clear decision-making responsibilities.
 - Shared task or PM system for priorities, decisions, and status.
@@ -93,14 +94,9 @@ I prefer a structured and consistent approach to collaboration. This includes:
 <summary><b>AI use and transparency</b></summary>
 <br>
 
-No important, sensitive, or complex information must be delivered via email, chats, calls, or any other unstructured communication.
+Important, sensitive, or complex information should not be delivered via email, chats, calls, or any other unstructured communication. Exceptions: Specialized PM tools already in use, if there is a clear process.
 
-Exceptions can be made for specialized PM tools already in use by the client if there is a clear working process and agreement.
-This excludes any form or shape of basic LLM or 'summarizing' features in consumer-grade software (like chat or email providers).
-
-The limitation ensures we're always on the same page with expectations and status.
-
-> [AI statement](AI-STATEMENT.md)
+This ensures, that we're on the same page about a project and its status.
 
 </details>
 
@@ -114,3 +110,7 @@ I prioritise sound engineering, review, and human oversight over speed or autono
 If you need a faster turnaround or full autonomy, another specialized provider may be a better fit.
 
 </details>
+
+<br>
+
+Also view: [AI statement](AI-STATEMENT.md)

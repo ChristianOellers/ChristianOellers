@@ -1,6 +1,6 @@
 # Christian Oellers
 
-![Codeconut Ltd.](teaser.svg)
+![Codeconut Ltd.](images/teaser.svg)
 
 Hi, I'm Christian!
 
@@ -230,6 +230,14 @@ Main | Sides | Enterprise | AI | Software
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-635242?style=for-the-badge&logo=phpstorm&labelColor=635242&logoColor=white)
 ![Affinity Suite](https://img.shields.io/badge/Affinity-635242?style=for-the-badge&logo=affinity&labelColor=635242&logoColor=white)
 ![Blender 3D](https://img.shields.io/badge/Blender-635242?style=for-the-badge&logo=blender&labelColor=635242&logoColor=white)
+
+<br>
+
+My go-to stack for projects I've worked on – and enjoy working with:
+
+![Codeconut Ltd.](images/logos.svg)
+
+_React, Supabase, Symfony, Shopware, Angular, n8n, Lovable_
 
 <br>
 

@@ -1,6 +1,8 @@
 # Achievements
 
-Production stories – Highlights of problems I've solved.
+Selected projects and outcomes from real-world challenges I've solved.
+
+_Details are limited where confidentiality applies._
 
 ## TOC
 
