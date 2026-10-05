@@ -56,6 +56,8 @@ Hybrid arrangements may be possible, where location flexibility is retained.
 
 Let us discuss your next project or collaboration:
 
+<br>
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Web-Codeconut_Ltd.-736c66?style=for-the-badge&logo=astro&logoColor=white)](https://www.codeconutltd.com)
