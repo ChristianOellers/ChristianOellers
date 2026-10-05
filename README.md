@@ -116,6 +116,20 @@ Find out more: [Codeconut Ltd.](https://www.codeconutltd.com)
 
 <br>
 
+## Products & Offers
+
+| Links                                                                            | Details                                                                                                                                                |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Lovable Tooling Stack](https://github.com/Codeconut-Ltd/Lovable-Tooling-Stack)  | AI builder toolkit for code quality, stability, maintenance. Can reduce costs and bugs; while increasing productivity and shelf-life of your products. |
+
+_Get in touch for details._
+
+<br>
+
+---
+
+<br>
+
 ## References
 
 ### Development
@@ -182,7 +196,17 @@ Published code, from snippets to full apps.
 
 ## Tech stack
 
-Main | Sides | Enterprise | AI | Software
+My go-to stack for projects I've worked on – and enjoy working with: React, Supabase, Symfony, Shopware, Angular, n8n, Lovable …
+
+![Codeconut Ltd.](images/logos.svg)
+
+<br>
+
+See it all:
+
+<details>
+<summary><b>Development · Enterprise · AI · Software</b></summary>
+<br>
 
 ![React](https://img.shields.io/badge/React-635242?style=for-the-badge&logo=react&labelColor=635242&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-635242?style=for-the-badge&logo=next.js&labelColor=635242&logoColor=white)
@@ -245,13 +269,7 @@ Main | Sides | Enterprise | AI | Software
 ![Affinity Suite](https://img.shields.io/badge/Affinity-635242?style=for-the-badge&logo=affinity&labelColor=635242&logoColor=white)
 ![Blender 3D](https://img.shields.io/badge/Blender-635242?style=for-the-badge&logo=blender&labelColor=635242&logoColor=white)
 
-<br>
-
-My go-to stack for projects I've worked on – and enjoy working with:
-
-![Codeconut Ltd.](images/logos.svg)
-
-_React, Supabase, Symfony, Shopware, Angular, n8n, Lovable_
+</details>
 
 <br>
 
@@ -262,6 +280,8 @@ _React, Supabase, Symfony, Shopware, Angular, n8n, Lovable_
 ## Contact
 
 Let's talk about your project and connect:
+
+<br>
 
 <div align="center">
 
