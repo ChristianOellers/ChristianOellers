@@ -7,7 +7,7 @@ AI integration, automation, and ensuring quality remain high.
 ## TOC
 
 - [Collaboration](#collaboration)
-- [Remote collaboration](#remote-collaboration)
+- [Remote work](#remote-work)
 - [Get in touch](#get-in-touch)
 - [Workflows](#workflows)
 
@@ -34,7 +34,7 @@ How I can support clients and teams:
 
 <br>
 
-## Remote collaboration
+## Remote work
 
 Engagements are preferably fully remote from international locations.
 Hybrid arrangements may be possible, where location flexibility is retained.
