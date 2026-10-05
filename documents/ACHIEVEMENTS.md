@@ -162,6 +162,8 @@ _Prior to the solution, the team used a legacy database interface that did not r
 
 Feel free to discuss similar solutions for your unique challenges:
 
+<br>
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Web-Codeconut_Ltd.-736c66?style=for-the-badge&logo=astro&logoColor=white)](https://www.codeconutltd.com)
