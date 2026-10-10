@@ -39,7 +39,6 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded in 2019 in sunny
 - [Tech stack](#tech-stack)
 - [Contact](#contact)
 - [Open Source](#open-source)
-- [Further Reads](#further-reads)
 
 <br>
 
@@ -112,24 +111,6 @@ Find out more: [Codeconut Ltd.](https://www.codeconutltd.com)
 
 <br>
 
----
-
-<br>
-
-## Products & Offers
-
-| Links                                                                            | Details                                                                                                                                                |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Lovable Tooling Stack](https://github.com/Codeconut-Ltd/Lovable-Tooling-Stack)  | AI builder toolkit for code quality, stability, maintenance. Can reduce costs and bugs; while increasing productivity and shelf-life of your products. |
-
-_Get in touch for details._
-
-<br>
-
----
-
-<br>
-
 ## References
 
 ### Development
@@ -196,7 +177,7 @@ Published code, from snippets to full apps.
 
 ## Tech stack
 
-My go-to stack for projects I've worked on – and enjoy working with: React, Supabase, Symfony, Shopware, Angular, n8n, Lovable …
+Part of my go-to stack for projects: React, Supabase, Symfony, Shopware, Angular, n8n, Lovable …
 
 ![Codeconut Ltd.](images/logos.svg)
 
@@ -292,6 +273,10 @@ Let's talk about your project and connect:
 
 </div>
 
+### Further Reads
+
+Check for other topics: [documents](documents/)
+
 <br>
 
 ---
@@ -312,17 +297,6 @@ If you've stumbled upon my work and found it useful, inspiring or fun, I'd be ha
 [![Patreon](https://img.shields.io/badge/Patreon-635242?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TheRemoteCoder)
 
 </div>
-<br>
-
----
-
-## Further Reads
-
-- [Achievements](documents/ACHIEVEMENTS.md)
-- [Work focus](documents/WORK-FOCUS.md)
-- [Engagements and hiring](documents/HIRE-ENGAGEMENT.md)
-- [AI use and transparency](documents/AI-STATEMENT.md)
-
 <br>
 
 ---
