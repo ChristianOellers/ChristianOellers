@@ -8,6 +8,7 @@ Founder of and Full-Stack Developer at Codeconut Ltd., founded in 2019 in sunny
 
 - Professionally, I work with agencies, SMEs, startups, and larger organisations to build, grow, and maintain digital products.
 - Personally, my nerdy heart beats for game development, traditional arts, and piano improvisation.
+- Native · Fluent · Toddler 🇩🇪 🇬🇧 🇮🇩
 
 **Experience**
 
